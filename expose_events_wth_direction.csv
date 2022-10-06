@@ -1,0 +1,1586 @@
+Team,Player,Event,EventID,X,Y,X2,Y2,Babak,Opponent,Direction
+Home,Roni S,Pass,1,50,49,38,49,1,Bagundal Cicalengka,Right
+Home,Surya G,Pass,2,37,50,37,35,1,Bagundal Cicalengka,Right
+Home,Anggara,Pass,3,38,37,28,24,1,Bagundal Cicalengka,Right
+Home,Antonius,Pass,4,26,22,20,39,1,Bagundal Cicalengka,Right
+Home,Agil,Pass,5,21,49,24,25,1,Bagundal Cicalengka,Right
+Home,Antonius,Pass,6,24,24,14,50,1,Bagundal Cicalengka,Right
+Home,Agil,Pass,7,17,41,46,84,1,Bagundal Cicalengka,Right
+Home,Andri V,Pass,8,64,84,72,62,1,Bagundal Cicalengka,Right
+Home,Hafidz,Pass Fail,9,75,58,83,78,1,Bagundal Cicalengka,Right
+Home,Roni S,Tackle,10,43,49,-,-,1,Bagundal Cicalengka,Right
+Home,Roni S,Pass,11,44,49,36,49,1,Bagundal Cicalengka,Right
+Home,Surya G,Pass,12,36,50,23,52,1,Bagundal Cicalengka,Right
+Home,Agil,Pass,13,24,34,23,53,1,Bagundal Cicalengka,Right
+Home,Ali M,Pass,14,21,64,34,82,1,Bagundal Cicalengka,Right
+Home,Andri V,Pass,15,29,81,47,65,1,Bagundal Cicalengka,Right
+Home,Hafidz,Pass Fail,16,57,62,72,64,1,Bagundal Cicalengka,Right
+Home,Anggara,Intercept,17,48,43,-,-,1,Bagundal Cicalengka,Right
+Home,Antonius,Intercept,18,21,29,-,-,1,Bagundal Cicalengka,Right
+Home,Antonius,Pass,19,23,26,35,8,1,Bagundal Cicalengka,Right
+Home,Ammar,Pass,20,31,11,20,33,1,Bagundal Cicalengka,Right
+Home,Agil,Pass,21,22,33,21,56,1,Bagundal Cicalengka,Right
+Home,Andri V,Pass,22,30,84,64,85,1,Bagundal Cicalengka,Right
+Home,Fikri N,Pass Fail,23,59,81,59,58,1,Bagundal Cicalengka,Right
+Home,Ammar,Intercept,24,69,23,-,-,1,Bagundal Cicalengka,Right
+Home,Ammar,Pass,25,77,24,91,60,1,Bagundal Cicalengka,Right
+Home,Ammar,Assist,26,80,26,90,59,1,Bagundal Cicalengka,Right
+Home,Roni S,Intercept,27,41,16,-,-,1,Bagundal Cicalengka,Right
+Home,Roni S,Pass,28,41,17,29,20,1,Bagundal Cicalengka,Right
+Home,Anggara,Pass,29,31,22,32,40,1,Bagundal Cicalengka,Right
+Home,Surya G,Pass Fail,30,35,36,44,37,1,Bagundal Cicalengka,Right
+Home,Rizki M,Pass,31,3,44,6,38,1,Bagundal Cicalengka,Right
+Home,Agil,Pass,32,8,33,4,43,1,Bagundal Cicalengka,Right
+Home,Rizki M,Pass Fail,33,4,50,39,93,1,Bagundal Cicalengka,Right
+Home,Ali M,Tackle,34,13,84,-,-,1,Bagundal Cicalengka,Right
+Home,Ali M,Pass,35,13,83,21,87,1,Bagundal Cicalengka,Right
+Home,Andri V,Pass Fail,36,19,83,70,86,1,Bagundal Cicalengka,Right
+Home,Roni S,Intercept,37,45,27,-,-,1,Bagundal Cicalengka,Right
+Home,Roni S,Pass,38,39,28,29,17,1,Bagundal Cicalengka,Right
+Home,Antonius,Pass,39,28,21,41,13,1,Bagundal Cicalengka,Right
+Home,Anggara,Pass Fail,40,36,17,87,40,1,Bagundal Cicalengka,Right
+Home,Ammar,Tackle Fail,41,63,11,54,10,1,Bagundal Cicalengka,Right
+Home,Antonius,Intercept,42,24,18,-,-,1,Bagundal Cicalengka,Right
+Home,Antonius,Pass Fail,43,27,20,45,31,1,Bagundal Cicalengka,Right
+Home,Antonius,Tackle Fail,44,36,10,-,-,1,Bagundal Cicalengka,Right
+Home,Ali M,Intercept,45,10,49,-,-,1,Bagundal Cicalengka,Right
+Home,Ali M,Pass,46,12,48,12,61,1,Bagundal Cicalengka,Right
+Home,Rizki M,Pass,47,5,44,8,59,1,Bagundal Cicalengka,Right
+Home,Ali M,Pass,48,10,64,11,48,1,Bagundal Cicalengka,Right
+Home,Surya G,Pass,49,9,55,14,16,1,Bagundal Cicalengka,Right
+Home,Antonius,Pass,50,20,10,40,11,1,Bagundal Cicalengka,Right
+Home,Ammar,Pass Fail,51,36,15,73,32,1,Bagundal Cicalengka,Right
+Home,Andri V,Pass,52,17,84,32,82,1,Bagundal Cicalengka,Right
+Home,Anggara,Pass Fail,53,21,79,36,82,1,Bagundal Cicalengka,Right
+Home,Andri V,Pass,54,26,91,27,78,1,Bagundal Cicalengka,Right
+Home,Anggara,Pass,55,25,71,31,85,1,Bagundal Cicalengka,Right
+Home,Andri V,Pass,56,54,88,59,71,1,Bagundal Cicalengka,Right
+Home,Hafidz,Pass Fail,57,71,61,66,0,1,Bagundal Cicalengka,Right
+Home,Agil,Pass,58,18,33,32,41,1,Bagundal Cicalengka,Right
+Home,Surya G,Pass,59,30,40,27,23,1,Bagundal Cicalengka,Right
+Home,Rizki M,Pass,60,13,52,16,33,1,Bagundal Cicalengka,Right
+Home,Agil,Pass,61,15,32,20,15,1,Bagundal Cicalengka,Right
+Home,Antonius,Yellow Card,62,20,13,-,-,1,Bagundal Cicalengka,Right
+Home,Antonius,Tackle Fail,63,22,14,-,-,1,Bagundal Cicalengka,Right
+Home,Rizki M,Pass,64,7,50,55,77,1,Bagundal Cicalengka,Right
+Home,Andri V,Pass,65,55,76,49,52,1,Bagundal Cicalengka,Right
+Home,Andri V,Tackle Fail,66,22,82,-,-,1,Bagundal Cicalengka,Right
+Home,Rizki M,Save,67,1,49,-,-,1,Bagundal Cicalengka,Right
+Home,Agil,Pass,68,8,33,25,15,1,Bagundal Cicalengka,Right
+Home,Antonius,Pass,69,23,18,23,32,1,Bagundal Cicalengka,Right
+Home,Surya G,Pass,70,22,39,23,17,1,Bagundal Cicalengka,Right
+Home,Antonius,Pass,71,27,15,20,30,1,Bagundal Cicalengka,Right
+Home,Surya G,Pass,72,26,29,12,39,1,Bagundal Cicalengka,Right
+Home,Agil,Pass,73,11,39,19,19,1,Bagundal Cicalengka,Right
+Home,Surya G,Pass Fail,74,10,34,29,54,1,Bagundal Cicalengka,Right
+Home,Rizki M,Save,75,4,53,-,-,1,Bagundal Cicalengka,Right
+Home,Rizki M,Pass Fail,76,5,48,75,52,1,Bagundal Cicalengka,Right
+Home,Hafidz,Goal,77,89,49,99,45,1,Bagundal Cicalengka,Right
+Home,Fikri N,Goal,78,93,67,98,57,1,Bagundal Cicalengka,Right
+Home,Antonius,Pass,79,20,36,80,60,1,Bagundal Cicalengka,Right
+Home,Antonius,Pass,80,26,37,48,56,1,Bagundal Cicalengka,Right
+Home,Surya G,Pass,81,51,52,18,38,1,Bagundal Cicalengka,Right
+Home,Ali M,Pass,82,16,37,16,56,1,Bagundal Cicalengka,Right
+Home,Agil,Pass,83,15,56,24,81,1,Bagundal Cicalengka,Right
+Home,Agil,Pass,84,25,71,18,33,1,Bagundal Cicalengka,Right
+Home,Ammar,Tackle Fail,85,45,28,-,-,1,Bagundal Cicalengka,Right
+Home,Agil,Tackle,86,5,26,-,-,1,Bagundal Cicalengka,Right
+Home,Agil,Pass,87,10,27,20,7,1,Bagundal Cicalengka,Right
+Home,Roni S,Pass,88,22,14,10,31,1,Bagundal Cicalengka,Right
+Home,Ali M,Pass,89,9,43,15,62,1,Bagundal Cicalengka,Right
+Home,Andri V,Pass,90,10,64,29,64,1,Bagundal Cicalengka,Right
+Home,Anggara,Pass Fail,91,25,65,67,59,1,Bagundal Cicalengka,Right
+Home,Ammar,Tackle,92,22,31,-,-,1,Bagundal Cicalengka,Right
+Home,Ammar,Pass,93,45,19,70,5,1,Bagundal Cicalengka,Right
+Home,Andri V,Intercept,94,61,71,-,-,1,Bagundal Cicalengka,Right
+Home,Andri V,Pass,95,61,70,68,58,1,Bagundal Cicalengka,Right
+Home,Anggara,Shots On,96,68,64,98,53,1,Bagundal Cicalengka,Right
+Home,Hafidz,Shots On,97,90,49,98,46,1,Bagundal Cicalengka,Right
+Home,Fikri N,Shots On,98,95,66,99,54,1,Bagundal Cicalengka,Right
+Home,Ali M,Intercept Fail,99,25,47,-,-,1,Bagundal Cicalengka,Right
+Home,Rizki M,Pass,100,9,40,22,20,1,Bagundal Cicalengka,Right
+Home,Antonius,Pass,101,34,14,80,6,1,Bagundal Cicalengka,Right
+Home,Antonius,Pass,102,34,10,55,13,1,Bagundal Cicalengka,Right
+Home,Roni S,Pass,103,60,14,39,28,1,Bagundal Cicalengka,Right
+Home,Surya G,Pass,104,38,26,32,10,1,Bagundal Cicalengka,Right
+Home,Antonius,Pass Fail,105,37,10,60,67,1,Bagundal Cicalengka,Right
+Home,Anggara,Pass Fail,106,43,71,71,20,1,Bagundal Cicalengka,Right
+Home,Surya G,Pass,107,37,32,50,60,1,Bagundal Cicalengka,Right
+Home,Antonius,Pass,108,38,29,17,30,1,Bagundal Cicalengka,Right
+Home,Agil,Pass,109,17,36,37,43,1,Bagundal Cicalengka,Right
+Home,Surya G,Pass,110,33,41,15,61,1,Bagundal Cicalengka,Right
+Home,Ali M,Pass,111,21,65,35,80,1,Bagundal Cicalengka,Right
+Home,Andri V,Pass Fail,112,39,82,86,43,1,Bagundal Cicalengka,Right
+Home,Anggara,Pass,113,38,59,36,81,1,Bagundal Cicalengka,Right
+Home,Andri V,Pass,114,36,80,47,58,1,Bagundal Cicalengka,Right
+Home,Anggara,Pass,115,45,56,80,84,1,Bagundal Cicalengka,Right
+Home,Fikri N,Pass,116,86,85,81,63,1,Bagundal Cicalengka,Right
+Home,Hafidz,Shots Off,117,86,63,98,36,1,Bagundal Cicalengka,Right
+Home,Anggara,Intercept Fail,118,77,72,-,-,1,Bagundal Cicalengka,Right
+Home,Ali M,Intercept Fail,119,22,62,11,52,1,Bagundal Cicalengka,Right
+Home,Rizki M,Pass Fail,120,9,62,77,70,1,Bagundal Cicalengka,Right
+Home,Andri V,Pass Fail,121,62,81,77,59,1,Bagundal Cicalengka,Right
+Home,Anggara,Pass,122,40,81,64,87,1,Bagundal Cicalengka,Right
+Home,Fikri N,Tackle Fail,123,37,85,-,-,1,Bagundal Cicalengka,Right
+Home,Roni S,Pass,124,32,59,22,53,1,Bagundal Cicalengka,Right
+Home,Surya G,Pass Fail,125,20,53,51,24,1,Bagundal Cicalengka,Right
+Home,Rizki M,Save,126,2,36,-,-,1,Bagundal Cicalengka,Right
+Home,Rizki M,Pass,127,4,52,11,60,1,Bagundal Cicalengka,Right
+Home,Ali M,Pass,128,11,61,18,80,1,Bagundal Cicalengka,Right
+Home,Andri V,Pass,129,30,85,25,52,1,Bagundal Cicalengka,Right
+Home,Surya G,Pass,130,19,52,33,83,1,Bagundal Cicalengka,Right
+Home,Andri V,Pass,131,39,86,71,85,1,Bagundal Cicalengka,Right
+Home,Fikri N,Pass,132,81,92,77,70,1,Bagundal Cicalengka,Right
+Home,Hafidz,Pass,133,80,68,56,59,1,Bagundal Cicalengka,Right
+Home,Surya G,Pass,134,62,65,78,89,1,Bagundal Cicalengka,Right
+Home,Andri V,Pass Fail,135,77,86,48,55,1,Bagundal Cicalengka,Right
+Home,Rizki M,Pass,136,8,56,19,49,1,Bagundal Cicalengka,Right
+Home,Agil,Pass,137,24,40,24,56,1,Bagundal Cicalengka,Right
+Home,Surya G,Pass,138,26,53,27,83,1,Bagundal Cicalengka,Right
+Home,Anggara,Pass,139,29,84,81,66,1,Bagundal Cicalengka,Right
+Home,Andri V,Pass,140,40,86,18,75,1,Bagundal Cicalengka,Right
+Home,Ali M,Pass,141,18,73,25,55,1,Bagundal Cicalengka,Right
+Home,Surya G,Pass,142,22,49,34,69,1,Bagundal Cicalengka,Right
+Home,Anggara,Pass,143,31,71,83,75,1,Bagundal Cicalengka,Right
+Home,Surya G,Pass Fail,144,7,32,28,12,1,Bagundal Cicalengka,Right
+Home,Ali M,Pass,145,10,53,16,30,1,Bagundal Cicalengka,Right
+Home,Agil,Pass,146,10,27,37,22,1,Bagundal Cicalengka,Right
+Home,Ammar,Pass Fail,147,35,21,65,8,1,Bagundal Cicalengka,Right
+Home,Ammar,Pass Fail,148,65,8,-,-,1,Bagundal Cicalengka,Right
+Home,Ammar,Pass Fail,149,65,8,-,-,1,Bagundal Cicalengka,Right
+Home,Ali M,Pass,150,12,42,13,58,1,Bagundal Cicalengka,Right
+Home,Andri V,Pass,151,21,62,20,83,1,Bagundal Cicalengka,Right
+Home,Fikri N,Pass Fail,152,21,82,62,66,1,Bagundal Cicalengka,Right
+Home,Rizki M,Save,153,7,52,-,-,1,Bagundal Cicalengka,Right
+Home,Roni S,Tackle,154,67,26,-,-,1,Bagundal Cicalengka,Right
+Home,Roni S,Pass,155,71,21,68,10,1,Bagundal Cicalengka,Right
+Home,Ammar,Pass Fail,156,95,24,94,47,1,Bagundal Cicalengka,Right
+Home,Fikri N,Intercept,157,60,75,-,-,1,Bagundal Cicalengka,Right
+Home,Ammar,Pass,158,22,21,18,40,1,Bagundal Cicalengka,Right
+Home,Anggara,Tackle Fail,159,35,76,-,-,1,Bagundal Cicalengka,Right
+Home,Ali M,Pass,160,86,36,82,28,1,Bagundal Cicalengka,Right
+Home,Fikri N,Pass Fail,161,85,25,61,51,1,Bagundal Cicalengka,Right
+Home,Ali M,Pass,162,83,30,76,15,1,Bagundal Cicalengka,Right
+Home,Ammar,Pass Fail,163,78,15,49,35,1,Bagundal Cicalengka,Right
+Home,Rizki M,Intercept,164,89,39,-,-,1,Bagundal Cicalengka,Right
+Home,Rizki M,Pass,165,91,40,36,7,1,Bagundal Cicalengka,Right
+Home,Ammar,Pass,166,38,8,61,13,1,Bagundal Cicalengka,Right
+Home,Fikri N,Pass Fail,167,66,20,52,44,1,Bagundal Cicalengka,Right
+Home,Fikri N,Pass Fail,168,87,28,71,39,1,Bagundal Cicalengka,Right
+Home,Rizki M,Pass Fail,169,13,56,63,23,1,Bagundal Cicalengka,Right
+Home,Ali M,Pass,170,27,72,-,-,1,Bagundal Cicalengka,Right
+Home,Ali M,Pass,171,70,69,-,-,1,Bagundal Cicalengka,Right
+Home,Surya G,Pass,172,71,74,70,48,1,Bagundal Cicalengka,Right
+Home,Andri V,Tackle Fail,173,61,12,-,-,1,Bagundal Cicalengka,Right
+Home,Hafidz,Pass,174,71,37,86,69,1,Bagundal Cicalengka,Right
+Home,Ammar,Shots Off,175,88,73,98,65,1,Bagundal Cicalengka,Right
+Home,Rizki M,Save,176,3,40,-,-,1,Bagundal Cicalengka,Right
+Home,Rizki M,Pass Fail,177,11,37,75,33,1,Bagundal Cicalengka,Right
+Home,Ammar,Pass Fail,178,71,79,-,-,1,Bagundal Cicalengka,Right
+Home,Ammar,Tackle Fail,179,80,85,-,-,1,Bagundal Cicalengka,Right
+Home,Antonius,Yellow Card,180,40,60,-,-,1,Bagundal Cicalengka,Right
+Home,Antonius,Red Card,181,44,67,-,-,1,Bagundal Cicalengka,Right
+Home,Rizki M,Pass Fail,182,88,36,66,13,2,Bagundal Cicalengka,Left
+Home,Ammar,Pass,183,58,79,-,-,2,Bagundal Cicalengka,Left
+Home,Ammar,Pass,184,62,80,83,80,2,Bagundal Cicalengka,Left
+Home,Ridwan,Pass,185,79,83,76,57,2,Bagundal Cicalengka,Left
+Home,Hafidz,Pass,186,86,32,98,59,2,Bagundal Cicalengka,Left
+Home,Hafidz,Assist,187,88,28,97,58,2,Bagundal Cicalengka,Left
+Home,Ridwan,Goal,188,95,61,-,-,2,Bagundal Cicalengka,Left
+Home,Ridwan,Shots On,189,96,62,-,-,2,Bagundal Cicalengka,Left
+Home,Anggara,Pass,190,70,42,80,43,2,Bagundal Cicalengka,Left
+Home,Agil,Pass,191,13,34,19,14,2,Bagundal Cicalengka,Left
+Home,Andri V,Pass,192,26,17,37,34,2,Bagundal Cicalengka,Left
+Home,Surya G,Pass,193,32,35,22,9,2,Bagundal Cicalengka,Left
+Home,Surya G,Pass,194,29,24,14,35,2,Bagundal Cicalengka,Left
+Home,Ali M,Pass,195,15,50,21,74,2,Bagundal Cicalengka,Left
+Home,Auzie,Pass,196,30,85,33,72,2,Bagundal Cicalengka,Left
+Home,Ridwan,Pass,197,33,63,29,82,2,Bagundal Cicalengka,Left
+Home,Ridwan,Pass Fail,198,32,76,66,74,2,Bagundal Cicalengka,Left
+Home,Surya G,Tackle Fail,199,31,28,-,-,2,Bagundal Cicalengka,Left
+Home,Ridwan,Tackle Fail,200,52,21,-,-,2,Bagundal Cicalengka,Left
+Home,Ridwan,Tackle Fail,201,40,22,-,-,2,Bagundal Cicalengka,Left
+Home,Rizki M,Pass,202,96,45,93,37,2,Bagundal Cicalengka,Left
+Home,Ali M,Pass Fail,203,87,36,59,20,2,Bagundal Cicalengka,Left
+Home,Anggara,Shots Off,204,76,62,94,58,2,Bagundal Cicalengka,Left
+Home,Ridwan,Pass,205,73,22,88,56,2,Bagundal Cicalengka,Left
+Home,Auzie,Pass,206,66,74,73,52,2,Bagundal Cicalengka,Left
+Home,Ammar,Pass,207,67,18,-,-,2,Bagundal Cicalengka,Left
+Home,Ammar,Tackle Fail,208,73,19,-,-,2,Bagundal Cicalengka,Left
+Home,Agil,Intercept Fail,209,89,56,-,-,2,Bagundal Cicalengka,Left
+Home,Rizki M,Pass,210,95,42,80,10,2,Bagundal Cicalengka,Left
+Home,Ali M,Pass,211,89,36,79,22,2,Bagundal Cicalengka,Left
+Home,Anggara,Pass Fail,212,80,34,64,75,2,Bagundal Cicalengka,Left
+Home,Ridwan,Pass,213,89,29,87,44,2,Bagundal Cicalengka,Left
+Home,Ridwan,Pass,214,97,3,89,14,2,Bagundal Cicalengka,Left
+Home,Anggara,Pass,215,84,14,73,39,2,Bagundal Cicalengka,Left
+Home,Surya G,Pass Fail,216,77,22,93,61,2,Bagundal Cicalengka,Left
+Home,Anggara,Corner  ,217,98,91,-,-,2,Bagundal Cicalengka,Left
+Home,Anggara,Pass Fail,218,99,89,95,30,2,Bagundal Cicalengka,Left
+Home,Agil,Tackle Fail,219,11,29,-,-,2,Bagundal Cicalengka,Left
+Home,Andri V,Tackle,220,9,16,-,-,2,Bagundal Cicalengka,Left
+Home,Andri V,Pass Fail,221,14,23,30,27,2,Bagundal Cicalengka,Left
+Home,Andri V,Yellow Card,222,3,15,-,-,2,Bagundal Cicalengka,Left
+Home,Rizki M,Pass,223,3,42,6,40,2,Bagundal Cicalengka,Left
+Home,Agil,Pass Fail,224,8,31,60,25,2,Bagundal Cicalengka,Left
+Home,Agil,Pass,225,6,29,54,10,2,Bagundal Cicalengka,Left
+Home,Ridwan,Pass,226,59,10,89,12,2,Bagundal Cicalengka,Left
+Home,Hafidz,Pass Fail,227,96,19,91,43,2,Bagundal Cicalengka,Left
+Home,Surya G,Intercept,228,71,45,-,-,2,Bagundal Cicalengka,Left
+Home,Anggara,Corner  ,229,98,92,-,-,2,Bagundal Cicalengka,Left
+Home,Anggara,Pass,230,97,89,93,18,2,Bagundal Cicalengka,Left
+Home,Surya G,Pass Fail,231,80,31,91,39,2,Bagundal Cicalengka,Left
+Home,Andri V,Pass,232,57,2,79,10,2,Bagundal Cicalengka,Left
+Home,Anggara,Shots Off,233,67,17,96,23,2,Bagundal Cicalengka,Left
+Home,Aceng,Tackle Fail,234,68,26,-,-,2,Bagundal Cicalengka,Left
+Home,Aceng,Intercept,235,39,45,-,-,2,Bagundal Cicalengka,Left
+Home,Aceng,Pass,236,64,41,67,23,2,Bagundal Cicalengka,Left
+Home,Rizki O,Pass,237,68,13,40,79,2,Bagundal Cicalengka,Left
+Home,Ridwan,Pass,238,37,80,38,56,2,Bagundal Cicalengka,Left
+Home,Anggara,Pass,239,37,16,77,21,2,Bagundal Cicalengka,Left
+Home,Ridwan,Shots On,240,75,15,97,40,2,Bagundal Cicalengka,Left
+Home,Anggara,Pass,241,75,33,62,29,2,Bagundal Cicalengka,Left
+Home,Surya G,Pass,242,59,37,69,18,2,Bagundal Cicalengka,Left
+Home,Anggara,Shots Off,243,65,26,98,30,2,Bagundal Cicalengka,Left
+Home,Auzie,Tackle Fail,244,74,8,-,-,2,Bagundal Cicalengka,Left
+Home,Surya G,Pass,245,58,34,65,51,2,Bagundal Cicalengka,Left
+Home,Aceng,Pass,246,59,52,79,82,2,Bagundal Cicalengka,Left
+Home,Rizki O,Pass,247,78,87,63,65,2,Bagundal Cicalengka,Left
+Home,Auzie,Tackle Fail,248,27,85,-,-,2,Bagundal Cicalengka,Left
+Home,Aceng,Tackle Fail,249,35,65,-,-,2,Bagundal Cicalengka,Left
+Home,Aceng,Pass,250,31,65,33,47,2,Bagundal Cicalengka,Left
+Home,Surya G,Pass,251,32,38,37,63,2,Bagundal Cicalengka,Left
+Home,Anggara,Tackle Fail,252,69,35,-,-,2,Bagundal Cicalengka,Left
+Home,Rizki M,Pass,253,3,47,66,88,2,Bagundal Cicalengka,Left
+Home,Rizki O,Tackle Fail,254,20,91,-,-,2,Bagundal Cicalengka,Left
+Home,Rizki M,Pass,255,4,43,35,8,2,Bagundal Cicalengka,Left
+Home,Rizki O,Pass Fail,256,71,13,84,24,2,Bagundal Cicalengka,Left
+Home,Ali M,Pass,257,75,26,78,28,2,Bagundal Cicalengka,Left
+Home,Ali M,Pass,258,16,56,6,41,2,Bagundal Cicalengka,Left
+Home,Ridwan,Pass,259,32,27,70,51,2,Bagundal Cicalengka,Left
+Home,Ridwan,Shots Off,260,61,32,98,64,2,Bagundal Cicalengka,Left
+Home,Ridwan,Tackle Fail,261,22,13,-,-,2,Bagundal Cicalengka,Left
+Home,Auzie,Shots On,262,82,29,96,44,2,Bagundal Cicalengka,Left
+Home,Ridwan,Corner  ,263,98,2,-,-,2,Bagundal Cicalengka,Left
+Home,Rofi,Pass,264,11,36,20,19,2,Bagundal Cicalengka,Left
+Home,Rofi,Pass,265,11,35,26,26,2,Bagundal Cicalengka,Left
+Away,Roni S,Pass,266,51,50,58,56,1,Bandung Mengbal,Left
+Away,Surya G,Pass Fail,267,59,57,20,9,1,Bandung Mengbal,Left
+Away,Jumagar,Pass,268,59,1,43,7,1,Bandung Mengbal,Left
+Away,Ammar,Pass,269,25,9,32,4,1,Bandung Mengbal,Left
+Away,Fikri N,Tackle Fail,270,29,5,19,2,1,Bandung Mengbal,Left
+Away,Ammar,Pass,271,30,3,48,9,1,Bandung Mengbal,Left
+Away,Jumagar,Pass,272,55,18,34,34,1,Bandung Mengbal,Left
+Away,Surya G,Pass,273,38,35,76,53,1,Bandung Mengbal,Left
+Away,Rofi,Pass,274,81,57,92,49,1,Bandung Mengbal,Left
+Away,Rizki M,Pass,275,96,48,38,45,1,Bandung Mengbal,Left
+Away,Surya G,Pass Fail,276,42,69,20,84,1,Bandung Mengbal,Left
+Away,Surya G,Intercept Fail,277,33,81,33,88,1,Bandung Mengbal,Left
+Away,Ridwan,Tackle Fail,278,51,76,51,65,1,Bandung Mengbal,Left
+Away,Rizki M,Pass Fail,279,92,43,43,15,1,Bandung Mengbal,Left
+Away,Jumagar,Tackle Fail,280,77,5,70,7,1,Bandung Mengbal,Left
+Away,Rofi,Intercept,281,99,29,75,20,1,Bandung Mengbal,Left
+Away,Rofi,Pass Fail,282,95,30,65,18,1,Bandung Mengbal,Left
+Away,Rizki M,Pass,283,96,60,52,60,1,Bandung Mengbal,Left
+Away,Roni S,Pass,284,53,62,53,47,1,Bandung Mengbal,Left
+Away,Surya G,Pass Fail,285,57,41,16,28,1,Bandung Mengbal,Left
+Away,Rizki M,Pass,286,92,57,89,67,1,Bandung Mengbal,Left
+Away,Rofi,Pass,287,88,64,76,84,1,Bandung Mengbal,Left
+Away,Andri V,Pass,288,78,85,79,47,1,Bandung Mengbal,Left
+Away,Surya G,Pass,289,79,45,60,27,1,Bandung Mengbal,Left
+Away,Jumagar,Pass,290,63,30,63,58,1,Bandung Mengbal,Left
+Away,Roni S,Pass,291,65,54,66,13,1,Bandung Mengbal,Left
+Away,Fikri N,Pass Fail,292,61,14,18,15,1,Bandung Mengbal,Left
+Away,Surya G,Pass,293,42,38,31,10,1,Bandung Mengbal,Left
+Away,Jumagar,Pass Fail,294,31,9,9,38,1,Bandung Mengbal,Left
+Away,Andri V,Pass,295,58,67,12,44,1,Bandung Mengbal,Left
+Away,Ridwan,Pass Fail,296,11,40,6,30,1,Bandung Mengbal,Left
+Away,Jumagar,Pass Fail,297,17,1,13,28,1,Bandung Mengbal,Left
+Away,Fikri N,Corner,298,2,1,-,-,1,Bandung Mengbal,Left
+Away,Fikri N,Pass Fail,299,1,3,4,47,1,Bandung Mengbal,Left
+Away,Surya G,Tackle Fail,300,58,43,57,37,1,Bandung Mengbal,Left
+Away,Roni S,Tackle,301,57,22,50,20,1,Bandung Mengbal,Left
+Away,Surya G,Pass Fail,302,52,46,14,65,1,Bandung Mengbal,Left
+Away,Andri V,Intercept Fail,303,71,80,67,88,1,Bandung Mengbal,Left
+Away,Andri V,Pass Fail,304,68,91,44,85,1,Bandung Mengbal,Left
+Away,Surya G,Intercept Fail,305,65,70,65,61,1,Bandung Mengbal,Left
+Away,Fikri N,Intercept,306,70,3,74,8,1,Bandung Mengbal,Left
+Away,Roni S,Pass,307,74,18,57,4,1,Bandung Mengbal,Left
+Away,Fikri N,Pass Fail,308,62,10,25,42,1,Bandung Mengbal,Left
+Away,Ammar,Tackle,309,33,79,33,76,1,Bandung Mengbal,Left
+Away,Rizki M,Save,310,96,55,-,-,1,Bandung Mengbal,Left
+Away,Rizki M,Pass,311,93,60,34,71,1,Bandung Mengbal,Left
+Away,Ridwan,Pass,312,32,56,53,54,1,Bandung Mengbal,Left
+Away,Tri W,Pass,313,56,50,35,85,1,Bandung Mengbal,Left
+Away,Ammar,Pass,314,42,68,32,64,1,Bandung Mengbal,Left
+Away,Roni S,Pass,315,30,63,16,76,1,Bandung Mengbal,Left
+Away,Tri W,Pass,316,6,77,4,26,1,Bandung Mengbal,Left
+Away,Jumagar,Pass Fail,317,4,26,11,28,1,Bandung Mengbal,Left
+Away,Ali M,Tackle,318,56,6,-,-,1,Bandung Mengbal,Left
+Away,Ali M,Pass,319,58,5,93,44,1,Bandung Mengbal,Left
+Away,Rizki M,Pass Fail,320,93,39,58,29,1,Bandung Mengbal,Left
+Away,Rizki M,Pass Fail,321,95,41,46,26,1,Bandung Mengbal,Left
+Away,Ali M,Intercept,322,80,22,-,-,1,Bandung Mengbal,Left
+Away,Ali M,Pass Fail,323,81,30,46,6,1,Bandung Mengbal,Left
+Away,Ali M,Intercept,324,81,26,-,-,1,Bandung Mengbal,Left
+Away,Ali M,Pass Fail,325,83,28,65,27,1,Bandung Mengbal,Left
+Away,Ridwan,Pass,326,51,45,57,39,1,Bandung Mengbal,Left
+Away,Roni S,Pass,327,57,40,57,50,1,Bandung Mengbal,Left
+Away,Surya G,Pass,328,56,56,42,85,1,Bandung Mengbal,Left
+Away,Ammar,Yellow Card,329,34,77,-,-,1,Bandung Mengbal,Left
+Away,Ammar,Pass,330,39,79,10,36,1,Bandung Mengbal,Left
+Away,Surya G,Pass,331,45,44,41,28,1,Bandung Mengbal,Left
+Away,Roni S,Pass,332,41,25,43,46,1,Bandung Mengbal,Left
+Away,Surya G,Pass,333,44,39,46,64,1,Bandung Mengbal,Left
+Away,Andri V,Pass Fail,334,46,74,15,45,1,Bandung Mengbal,Left
+Away,Rizki M,Intercept,335,93,52,-,-,1,Bandung Mengbal,Left
+Away,Rizki M,Pass Fail,336,95,57,75,69,1,Bandung Mengbal,Left
+Away,Roni S,Pass,337,45,29,31,27,1,Bandung Mengbal,Left
+Away,Ridwan,Pass,338,39,33,38,16,1,Bandung Mengbal,Left
+Away,Fikri N,Pass Fail,339,22,10,8,38,1,Bandung Mengbal,Left
+Away,Ammar,Pass,340,38,91,37,72,1,Bandung Mengbal,Left
+Away,Surya G,Pass,341,36,62,27,83,1,Bandung Mengbal,Left
+Away,Ammar,Pass Fail,342,6,79,4,12,1,Bandung Mengbal,Left
+Away,Surya G,Intercept,343,54,29,-,-,1,Bandung Mengbal,Left
+Away,Surya G,Pass,344,55,29,57,47,1,Bandung Mengbal,Left
+Away,Ridwan,Pass,345,56,47,78,40,1,Bandung Mengbal,Left
+Away,Rofi,Pass,346,80,36,55,41,1,Bandung Mengbal,Left
+Away,Surya G,Pass,347,55,43,27,76,1,Bandung Mengbal,Left
+Away,Ammar,Pass Fail,348,26,70,9,73,1,Bandung Mengbal,Left
+Away,Andri V,Pass Fail,349,73,70,43,73,1,Bandung Mengbal,Left
+Away,Ammar,Tackle,350,40,73,40,61,1,Bandung Mengbal,Left
+Away,Ammar,Pass,351,41,62,39,38,1,Bandung Mengbal,Left
+Away,Fikri N,Pass,352,41,56,16,77,1,Bandung Mengbal,Left
+Away,Ridwan,Pass Fail,353,31,68,17,68,1,Bandung Mengbal,Left
+Away,Tri W,Tackle Fail,354,20,64,-,-,1,Bandung Mengbal,Left
+Away,Rofi,Intercept Fail,355,88,40,73,41,1,Bandung Mengbal,Left
+Away,Andri V,Intercept,356,85,56,-,-,1,Bandung Mengbal,Left
+Away,Andri V,Pass Fail,357,80,57,38,56,1,Bandung Mengbal,Left
+Away,Roni S,Pass,358,58,46,45,41,1,Bandung Mengbal,Left
+Away,Tri W,Pass,359,47,34,57,33,1,Bandung Mengbal,Left
+Away,Surya G,Pass,360,59,33,30,14,1,Bandung Mengbal,Left
+Away,Fikri N,Pass,361,29,12,9,14,1,Bandung Mengbal,Left
+Away,Fikri N,Tackle,362,19,11,-,-,1,Bandung Mengbal,Left
+Away,Ammar,Tackle Fail,363,22,4,-,-,1,Bandung Mengbal,Left
+Away,Rofi,Tackle Fail,364,78,36,-,-,1,Bandung Mengbal,Left
+Away,Andri V,Intercept,365,92,56,-,-,1,Bandung Mengbal,Left
+Away,Rizki M,Pass,366,90,58,83,73,1,Bandung Mengbal,Left
+Away,Rofi,Pass,367,87,67,72,82,1,Bandung Mengbal,Left
+Away,Andri V,Pass,368,71,81,70,49,1,Bandung Mengbal,Left
+Away,Surya G,Pass,369,72,46,65,22,1,Bandung Mengbal,Left
+Away,Ali M,Pass Fail,370,63,21,24,19,1,Bandung Mengbal,Left
+Away,Ammar,Intercept Fail,371,31,83,-,-,1,Bandung Mengbal,Left
+Away,Fikri N,Intercept,372,41,56,-,-,1,Bandung Mengbal,Left
+Away,Fikri N,Pass,373,43,53,48,62,1,Bandung Mengbal,Left
+Away,Roni S,Pass,374,45,67,20,42,1,Bandung Mengbal,Left
+Away,Ibrahim,Pass,375,17,38,33,48,1,Bandung Mengbal,Left
+Away,Roni S,Pass Fail,376,30,48,27,19,1,Bandung Mengbal,Left
+Away,Rofi,Tackle Fail,377,90,30,-,-,1,Bandung Mengbal,Left
+Away,Roni S,Pass Fail,378,44,36,33,33,1,Bandung Mengbal,Left
+Away,Jumagar,Tackle,379,72,16,-,-,1,Bandung Mengbal,Left
+Away,Jumagar,Pass,380,75,21,66,34,1,Bandung Mengbal,Left
+Away,Roni S,Pass,381,72,27,59,21,1,Bandung Mengbal,Left
+Away,Fikri N,Pass Fail,382,64,19,66,15,1,Bandung Mengbal,Left
+Away,Andri V,Tackle Fail,383,90,65,-,-,1,Bandung Mengbal,Left
+Away,Rofi,Tackle Fail,384,89,64,-,-,1,Bandung Mengbal,Left
+Away,Rofi,Pass,385,89,65,76,77,1,Bandung Mengbal,Left
+Away,Eggi,Pass,386,58,82,42,67,1,Bandung Mengbal,Left
+Away,Ibrahim,Pass,387,26,65,38,73,1,Bandung Mengbal,Left
+Away,Eggi,Pass,388,41,77,17,82,1,Bandung Mengbal,Left
+Away,Ammar,Corner,389,2,91,-,-,1,Bandung Mengbal,Left
+Away,Ammar,Corner,390,1,91,15,78,1,Bandung Mengbal,Left
+Away,Ammar,Pass,391,2,89,15,74,1,Bandung Mengbal,Left
+Away,Surya G,Shots On,392,18,71,1,58,1,Bandung Mengbal,Left
+Away,Rofi,Intercept,393,77,66,-,-,1,Bandung Mengbal,Left
+Away,Rofi,Pass,394,81,66,93,59,1,Bandung Mengbal,Left
+Away,Rizki M,Pass,395,92,56,85,29,1,Bandung Mengbal,Left
+Away,Ali M,Pass,396,82,30,68,31,1,Bandung Mengbal,Left
+Away,Surya G,Pass Fail,397,68,28,13,27,1,Bandung Mengbal,Left
+Away,Rofi,Pass,398,89,65,66,67,1,Bandung Mengbal,Left
+Away,Eggi,Pass,399,75,68,68,81,1,Bandung Mengbal,Left
+Away,Andri V,Pass Fail,400,61,74,32,79,1,Bandung Mengbal,Left
+Away,Ammar,Tackle Fail,401,35,79,-,-,1,Bandung Mengbal,Left
+Away,Andri V,Intercept,402,72,67,-,-,1,Bandung Mengbal,Left
+Away,Andri V,Pass Fail,403,72,61,41,60,1,Bandung Mengbal,Left
+Away,Ammar,Intercept,404,31,72,-,-,1,Bandung Mengbal,Left
+Away,Ammar,Shots Off,405,17,64,1,59,1,Bandung Mengbal,Left
+Away,Fikri N,Pass,406,45,6,25,23,1,Bandung Mengbal,Left
+Away,Ridwan,Shots Off,407,14,27,2,30,1,Bandung Mengbal,Left
+Away,Surya G,Intercept,408,48,52,-,-,1,Bandung Mengbal,Left
+Away,Surya G,Pass,409,45,52,45,73,1,Bandung Mengbal,Left
+Away,Andri V,Pass,410,44,79,87,56,1,Bandung Mengbal,Left
+Away,Rizki M,Pass,411,93,55,81,63,1,Bandung Mengbal,Left
+Away,Rofi,Pass,412,80,59,71,46,1,Bandung Mengbal,Left
+Away,Surya G,Pass,413,70,43,73,78,1,Bandung Mengbal,Left
+Away,Rofi,Pass,414,74,64,64,55,1,Bandung Mengbal,Left
+Away,Eggi,Pass,415,70,59,70,36,1,Bandung Mengbal,Left
+Away,Surya G,Pass Fail,416,67,35,33,12,1,Bandung Mengbal,Left
+Away,Jumagar,Pass,417,32,4,48,21,1,Bandung Mengbal,Left
+Away,Surya G,Pass,418,45,21,67,52,1,Bandung Mengbal,Left
+Away,Rofi,Pass,419,72,51,63,77,1,Bandung Mengbal,Left
+Away,Andri V,Pass,420,69,65,71,22,1,Bandung Mengbal,Left
+Away,Ali M,Pass,421,77,20,60,20,1,Bandung Mengbal,Left
+Away,Surya G,Pass Fail,422,64,23,26,23,1,Bandung Mengbal,Left
+Away,Ridwan,Shots Off,423,22,38,3,40,1,Bandung Mengbal,Left
+Away,Rofi,Intercept Fail,424,80,60,74,60,1,Bandung Mengbal,Left
+Away,Ali M,Tackle Fail,425,80,32,-,-,1,Bandung Mengbal,Left
+Away,Jumagar,Pass,426,70,33,52,14,1,Bandung Mengbal,Left
+Away,Fikri N,Pass Fail,427,46,8,27,13,1,Bandung Mengbal,Left
+Away,Ali M,Pass,428,67,15,74,38,1,Bandung Mengbal,Left
+Away,Rofi,Pass,429,77,36,61,38,1,Bandung Mengbal,Left
+Away,Surya G,Pass,430,72,36,33,83,1,Bandung Mengbal,Left
+Away,Andri V,Pass Fail,431,19,80,13,53,1,Bandung Mengbal,Left
+Away,Eggi,Shots Off,432,23,56,1,54,1,Bandung Mengbal,Left
+Away,Ali M,Tackle Fail,433,84,26,77,25,1,Bandung Mengbal,Left
+Away,Andri V,Pass Fail,434,88,65,68,57,1,Bandung Mengbal,Left
+Away,Rizki M,Save,435,97,49,-,-,1,Bandung Mengbal,Left
+Away,Rizki M,Pass,436,95,46,79,42,1,Bandung Mengbal,Left
+Away,Surya G,Pass,437,77,39,63,40,1,Bandung Mengbal,Left
+Away,Ridwan,Pass,438,64,38,77,40,1,Bandung Mengbal,Left
+Away,Surya G,Pass,439,74,43,70,77,1,Bandung Mengbal,Left
+Away,Eggi,Pass,440,64,80,75,72,1,Bandung Mengbal,Left
+Away,Andri V,Pass,441,73,73,71,58,1,Bandung Mengbal,Left
+Away,Surya G,Pass Fail,442,65,44,25,40,1,Bandung Mengbal,Left
+Away,Ibrahim,Tackle,443,45,82,-,-,1,Bandung Mengbal,Left
+Away,Ibrahim,Pass,444,42,74,29,66,1,Bandung Mengbal,Left
+Away,Ammar,Pass,445,32,65,57,59,1,Bandung Mengbal,Left
+Away,Surya G,Pass,446,55,56,10,16,1,Bandung Mengbal,Left
+Away,Fikri N,Shots On,447,2,24,1,36,1,Bandung Mengbal,Left
+Away,-,Half time,448,50,48,-,-,,Bandung Mengbal,
+Away,-,Half time,449,50,48,-,-,,Bandung Mengbal,
+Away,-,Half time,450,50,48,-,-,,Bandung Mengbal,
+Away,Jumagar,Pass,451,73,78,58,76,2,Bandung Mengbal,Right
+Away,Fikri N,Shots On,452,75,73,98,54,2,Bandung Mengbal,Right
+Away,Rofi,Pass,453,17,34,19,62,2,Bandung Mengbal,Right
+Away,Ali M,Pass,454,19,73,40,84,2,Bandung Mengbal,Right
+Away,Jumagar,Pass,455,39,80,68,62,2,Bandung Mengbal,Right
+Away,Ibrahim,Pass,456,72,59,66,73,2,Bandung Mengbal,Right
+Away,Fikri N,Pass,457,63,79,36,76,2,Bandung Mengbal,Right
+Away,Jumagar,Pass,458,38,76,22,64,2,Bandung Mengbal,Right
+Away,Ali M,Pass,459,22,65,28,45,2,Bandung Mengbal,Right
+Away,Surya G,Pass,460,25,44,41,42,2,Bandung Mengbal,Right
+Away,Aceng,Pass,461,45,41,30,41,2,Bandung Mengbal,Right
+Away,Surya G,Pass Fail,462,40,24,51,20,2,Bandung Mengbal,Right
+Away,Andri V,Pass,463,31,1,21,15,2,Bandung Mengbal,Right
+Away,Rofi,Pass,464,20,18,19,49,2,Bandung Mengbal,Right
+Away,Ali M,Pass,465,17,58,26,77,2,Bandung Mengbal,Right
+Away,Jumagar,Pass,466,30,65,33,37,2,Bandung Mengbal,Right
+Away,Aceng,Pass,467,47,41,33,42,2,Bandung Mengbal,Right
+Away,Surya G,Pass Fail,468,41,36,70,26,2,Bandung Mengbal,Right
+Away,Surya G,Tackle,469,62,19,-,-,2,Bandung Mengbal,Right
+Away,Surya G,Pass,470,64,11,76,10,2,Bandung Mengbal,Right
+Away,Rofi,Intercept Fail,471,25,21,35,21,2,Bandung Mengbal,Right
+Away,Rofi,Pass,472,21,28,37,38,2,Bandung Mengbal,Right
+Away,Aceng,Pass,473,35,33,23,33,2,Bandung Mengbal,Right
+Away,Rofi,Pass,474,25,45,29,26,2,Bandung Mengbal,Right
+Away,Surya G,Pass,475,29,25,31,14,2,Bandung Mengbal,Right
+Away,Andri V,Pass,476,30,13,18,29,2,Bandung Mengbal,Right
+Away,Rofi,Pass,477,17,29,18,52,2,Bandung Mengbal,Right
+Away,Ali M,Pass Fail,478,27,54,70,72,2,Bandung Mengbal,Right
+Away,Jumagar,Pass,479,72,91,71,73,2,Bandung Mengbal,Right
+Away,Fikri N,Tackle Fail,480,43,68,-,-,2,Bandung Mengbal,Right
+Away,Surya G,Intercept,481,27,55,-,-,2,Bandung Mengbal,Right
+Away,Surya G,Pass Fail,482,47,63,80,65,2,Bandung Mengbal,Right
+Away,Rofi,Intercept,483,24,32,-,-,2,Bandung Mengbal,Right
+Away,Rofi,Pass,484,26,29,35,28,2,Bandung Mengbal,Right
+Away,Surya G,Pass,485,29,22,29,51,2,Bandung Mengbal,Right
+Away,Aceng,Pass,486,29,50,28,80,2,Bandung Mengbal,Right
+Away,Fikri N,Pass,487,31,65,44,83,2,Bandung Mengbal,Right
+Away,Eggi,Pass,488,47,84,35,67,2,Bandung Mengbal,Right
+Away,Fikri N,Pass Fail,489,44,72,77,84,2,Bandung Mengbal,Right
+Away,Surya G,Pass,490,33,48,19,48,2,Bandung Mengbal,Right
+Away,Rofi,Pass Fail,491,22,34,32,26,2,Bandung Mengbal,Right
+Away,Ali M,Tackle,492,12,65,-,-,2,Bandung Mengbal,Right
+Away,Ali M,Pass,493,12,65,30,81,2,Bandung Mengbal,Right
+Away,Fikri N,Pass,494,32,78,46,85,2,Bandung Mengbal,Right
+Away,Fikri N,Pass,495,43,91,54,79,2,Bandung Mengbal,Right
+Away,Budi Hudni,Pass Fail,496,66,82,58,91,2,Bandung Mengbal,Right
+Away,Fikri N,Pass,497,43,88,29,70,2,Bandung Mengbal,Right
+Away,Ali M,Pass,498,26,74,36,81,2,Bandung Mengbal,Right
+Away,Fikri N,Pass,499,29,77,29,51,2,Bandung Mengbal,Right
+Away,Surya G,Pass,500,31,48,41,39,2,Bandung Mengbal,Right
+Away,Aceng,Pass,501,41,38,35,44,2,Bandung Mengbal,Right
+Away,Surya G,Pass,502,34,41,19,35,2,Bandung Mengbal,Right
+Away,Rofi,Pass,503,22,27,51,26,2,Bandung Mengbal,Right
+Away,Ammar,Pass,504,55,27,44,43,2,Bandung Mengbal,Right
+Away,Aceng,Pass,505,38,35,18,44,2,Bandung Mengbal,Right
+Away,Ali M,Pass,506,22,57,38,68,2,Bandung Mengbal,Right
+Away,Eggi,Pass,507,34,80,57,81,2,Bandung Mengbal,Right
+Away,Fikri N,Pass Fail,508,64,78,72,76,2,Bandung Mengbal,Right
+Away,Ali M,Intercept Fail,509,30,72,-,-,2,Bandung Mengbal,Right
+Away,Fikri N,Tackle Fail,510,13,66,-,-,2,Bandung Mengbal,Right
+Away,Rizki M,Pass,511,8,64,21,64,2,Bandung Mengbal,Right
+Away,Rofi,Pass,512,11,62,30,75,2,Bandung Mengbal,Right
+Away,Fikri N,Pass,513,19,67,36,74,2,Bandung Mengbal,Right
+Away,Budi Hudni,Pass,514,34,74,34,54,2,Bandung Mengbal,Right
+Away,Eggi,Pass,515,39,53,29,53,2,Bandung Mengbal,Right
+Away,Eggi,Pass,516,40,86,33,48,2,Bandung Mengbal,Right
+Away,Surya G,Pass,517,34,45,69,79,2,Bandung Mengbal,Right
+Away,Budi Hudni,Pass Fail,518,76,74,67,61,2,Bandung Mengbal,Right
+Away,Eggi,Pass,519,38,89,33,59,2,Bandung Mengbal,Right
+Away,Surya G,Pass,520,30,48,38,84,2,Bandung Mengbal,Right
+Away,Eggi,Pass Fail,521,41,80,79,68,2,Bandung Mengbal,Right
+Away,Budi Hudni,Pass,522,65,66,71,76,2,Bandung Mengbal,Right
+Away,Fikri N,Pass,523,77,77,85,70,2,Bandung Mengbal,Right
+Away,Aceng,Pass,524,82,63,90,69,2,Bandung Mengbal,Right
+Away,Fikri N,Corner,525,96,90,-,-,2,Bandung Mengbal,Right
+Away,Budi Hudni,Pass Fail,526,96,84,94,28,2,Bandung Mengbal,Right
+Away,Andri V,Pass,527,68,24,78,29,2,Bandung Mengbal,Right
+Away,Eggi,Shots Off,528,98,38,-,-,2,Bandung Mengbal,Right
+Away,Fikri N,Pass,529,21,91,31,76,2,Bandung Mengbal,Right
+Away,Eggi,Pass Fail,530,32,75,32,92,2,Bandung Mengbal,Right
+Away,Andri V,Tackle,531,22,23,-,-,2,Bandung Mengbal,Right
+Away,Andri V,Pass,532,25,30,32,31,2,Bandung Mengbal,Right
+Away,Aceng,Pass,533,35,29,30,45,2,Bandung Mengbal,Right
+Away,Surya G,Pass,534,38,39,75,69,2,Bandung Mengbal,Right
+Away,Budi Hudni,Shots On,535,90,59,99,56,2,Bandung Mengbal,Right
+Away,Budi Hudni,Goal,536,89,61,99,59,2,Bandung Mengbal,Right
+Away,Surya G,Assist,537,39,37,77,65,2,Bandung Mengbal,Right
+Away,Rizki M,Pass Fail,538,3,59,58,71,2,Bandung Mengbal,Right
+Away,Aceng,Tackle Fail,539,17,76,18,86,2,Bandung Mengbal,Right
+Away,Eggi,Intercept,540,34,52,-,-,2,Bandung Mengbal,Right
+Away,Eggi,Pass,541,35,52,32,65,2,Bandung Mengbal,Right
+Away,Aceng,Pass,542,30,68,44,79,2,Bandung Mengbal,Right
+Away,Budi Hudni,Pass,543,68,71,69,46,2,Bandung Mengbal,Right
+Away,Surya G,Pass Fail,544,74,56,80,57,2,Bandung Mengbal,Right
+Away,Andri V,Pass Fail,545,18,16,33,19,2,Bandung Mengbal,Right
+Away,Ibrahim,Tackle Fail,546,68,67,74,67,2,Bandung Mengbal,Right
+Away,Surya G,Tackle,547,57,27,62,29,2,Bandung Mengbal,Right
+Away,Surya G,Pass,548,60,22,76,16,2,Bandung Mengbal,Right
+Away,Fikri N,Shots On,549,82,23,97,42,2,Bandung Mengbal,Right
+Away,Aceng,Intercept,550,43,59,-,-,2,Bandung Mengbal,Right
+Away,Aceng,Pass,551,39,55,24,54,2,Bandung Mengbal,Right
+Away,Althop,Pass,552,27,57,12,53,2,Bandung Mengbal,Right
+Away,Rizki M,Pass Fail,553,9,31,51,30,2,Bandung Mengbal,Right
+Away,Ibrahim,Tackle Fail,554,88,30,91,35,2,Bandung Mengbal,Right
+Away,Surya G,Pass,555,70,36,77,36,2,Bandung Mengbal,Right
+Away,Ibrahim,Pass,556,83,33,74,36,2,Bandung Mengbal,Right
+Away,Surya G,Shots Off,557,98,40,-,-,2,Bandung Mengbal,Right
+Away,Rizki M,Pass,558,6,42,8,65,2,Bandung Mengbal,Right
+Away,Althop,Pass,559,10,70,16,43,2,Bandung Mengbal,Right
+Away,Aceng,Pass,560,14,38,10,38,2,Bandung Mengbal,Right
+Away,Rofi,Pass Fail,561,11,35,15,25,2,Bandung Mengbal,Right
+Away,Althop,Pass Fail,562,12,43,23,9,2,Bandung Mengbal,Right
+Away,Surya G,Intercept,563,63,35,-,-,2,Bandung Mengbal,Right
+Away,Surya G,Pass,564,65,14,77,29,2,Bandung Mengbal,Right
+Away,Ibrahim,Pass,565,79,26,58,27,2,Bandung Mengbal,Right
+Away,Eggi,Pass Fail,566,61,28,78,65,2,Bandung Mengbal,Right
+Away,Budi Hudni,Tackle Fail,567,79,71,-,-,2,Bandung Mengbal,Right
+Away,Eggi,Tackle Fail,568,36,89,41,89,2,Bandung Mengbal,Right
+Away,Rizki M,Pass Fail,569,10,37,59,17,2,Bandung Mengbal,Right
+Away,Rofi,Intercept,570,6,29,-,-,2,Bandung Mengbal,Right
+Away,Aceng,Tackle Fail,571,24,83,-,-,2,Bandung Mengbal,Right
+Away,Fikri N,Tackle,572,19,82,-,-,2,Bandung Mengbal,Right
+Away,Fikri N,Pass,573,24,84,29,65,2,Bandung Mengbal,Right
+Away,Surya G,Pass Fail,574,38,73,63,73,2,Bandung Mengbal,Right
+Away,Andri V,Tackle Fail,575,29,22,-,-,2,Bandung Mengbal,Right
+Away,Andri V,Yellow Card,576,29,17,-,-,2,Bandung Mengbal,Right
+Away,Andri V,Intercept,577,7,33,-,-,2,Bandung Mengbal,Right
+Away,Andri V,Pass,578,11,36,18,61,2,Bandung Mengbal,Right
+Away,Surya G,Pass,579,17,61,17,56,2,Bandung Mengbal,Right
+Away,Budi Hudni,Pass Fail,580,16,60,33,56,2,Bandung Mengbal,Right
+Away,Rizki M,Pass,581,6,51,15,64,2,Bandung Mengbal,Right
+Away,Althop,Pass Fail,582,20,70,37,88,2,Bandung Mengbal,Right
+Away,Andri V,Pass,583,9,59,37,74,2,Bandung Mengbal,Right
+Away,Deni Nurul,Pass,584,58,68,39,79,2,Bandung Mengbal,Right
+Away,Nur Faizal,Pass,585,39,75,62,84,2,Bandung Mengbal,Right
+Away,Budi Hudni,Pass,586,72,66,59,51,2,Bandung Mengbal,Right
+Away,Deni Nurul,Pass Fail,587,53,45,44,45,2,Bandung Mengbal,Right
+Away,Andri V,Pass,588,14,33,22,58,2,Bandung Mengbal,Right
+Away,Althop,Pass,589,18,68,33,50,2,Bandung Mengbal,Right
+Away,Eggi,Pass,590,38,48,58,80,2,Bandung Mengbal,Right
+Away,Budi Hudni,Pass,591,80,82,79,48,2,Bandung Mengbal,Right
+Away,Aceng,Shots On,592,81,34,98,42,2,Bandung Mengbal,Right
+Away,Deni Nurul,Tackle,593,44,16,-,-,2,Bandung Mengbal,Right
+Away,Deni Nurul,Pass,594,43,51,54,87,2,Bandung Mengbal,Right
+Away,Nur Faizal,Pass,595,63,81,83,84,2,Bandung Mengbal,Right
+Away,Budi Hudni,Pass Fail,596,91,84,93,56,2,Bandung Mengbal,Right
+Away,Deni Nurul,Tackle Fail,597,37,10,-,-,2,Bandung Mengbal,Right
+Home,Roni S,Pass,598,48,49,33,41,1,B-One,Right
+Home,Jumagar,Pass Fail,599,39,37,78,58,1,B-One,Right
+Home,Asep Juandi,Intercept,600,66,64,-,-,1,B-One,Right
+Home,Asep Juandi,Pass,601,63,66,62,76,1,B-One,Right
+Home,Ammar,Pass,602,61,74,67,84,1,B-One,Right
+Home,Fikri N,Pass,603,66,86,36,75,1,B-One,Right
+Home,Andri V,Pass,604,38,68,67,64,1,B-One,Right
+Home,Roni S,Pass,605,74,63,85,82,1,B-One,Right
+Home,Mahardika,Pass,606,77,90,-,-,1,B-One,Right
+Home,Mahardika,Pass,607,77,90,55,80,1,B-One,Right
+Home,Andri V,Pass,608,54,81,-,-,1,B-One,Right
+Home,Andri V,Pass,609,54,81,55,56,1,B-One,Right
+Home,Ammar,Pass,610,66,70,68,49,1,B-One,Right
+Home,Roni S,Pass Fail,611,66,39,80,36,1,B-One,Right
+Home,Andri V,Pass,612,52,58,64,57,1,B-One,Right
+Home,Ammar,Pass,613,67,49,56,28,1,B-One,Right
+Home,Rofi,Pass,614,56,15,80,12,1,B-One,Right
+Home,Fikri N,Pass Fail,615,87,11,88,39,1,B-One,Right
+Home,Antonius,Intercept,616,21,21,-,-,1,B-One,Right
+Home,Antonius,Pass Fail,617,25,28,61,63,1,B-One,Right
+Home,Ammar,Intercept,618,54,87,-,-,1,B-One,Right
+Home,Ammar,Pass,619,44,82,33,77,1,B-One,Right
+Home,Jumagar,Pass Fail,620,64,80,64,51,1,B-One,Right
+Home,Rofi,Intercept,621,14,29,-,-,1,B-One,Right
+Home,Rofi,Pass,622,13,27,10,31,1,B-One,Right
+Home,Andri V,Pass Fail,623,11,33,25,13,1,B-One,Right
+Home,Asep Juandi,Intercept,624,42,19,-,-,1,B-One,Right
+Home,Rofi,Pass Fail,625,12,36,58,36,1,B-One,Right
+Home,Antonius,Intercept,626,18,26,-,-,1,B-One,Right
+Home,Antonius,Pass,627,22,28,53,32,1,B-One,Right
+Home,Roni S,Pass,628,46,36,30,44,1,B-One,Right
+Home,Mahardika,Pass Fail,629,38,53,38,37,1,B-One,Right
+Home,Fikri N,Pass,630,29,5,39,25,1,B-One,Right
+Home,Roni S,Pass,631,36,36,22,25,1,B-One,Right
+Home,Antonius,Pass,632,10,23,10,29,1,B-One,Right
+Home,Andri V,Pass,633,11,33,53,24,1,B-One,Right
+Home,Andri V,Intercept,634,17,33,-,-,1,B-One,Right
+Home,Andri V,Pass Fail,635,17,33,46,44,1,B-One,Right
+Home,Dhiya Ulhaq,Pass,636,3,51,10,63,1,B-One,Right
+Home,Andri V,Pass,637,9,69,17,82,1,B-One,Right
+Home,Jumagar,Pass,638,21,87,49,86,1,B-One,Right
+Home,Antonius,Intercept,639,19,31,-,-,1,B-One,Right
+Home,Antonius,Pass,640,34,29,21,49,1,B-One,Right
+Home,Andri V,Pass,641,21,49,21,71,1,B-One,Right
+Home,Dhiya Ulhaq,Pass Fail,642,1,60,76,56,1,B-One,Right
+Home,Mahardika,Intercept,643,17,66,-,-,1,B-One,Right
+Home,Mahardika,Pass Fail,644,10,60,22,73,1,B-One,Right
+Home,Ammar,Intercept,645,51,88,-,-,1,B-One,Right
+Home,Ammar,Pass Fail,646,68,73,77,60,1,B-One,Right
+Home,Roni S,Shots Off,647,75,38,97,44,1,B-One,Right
+Home,Ammar,Pass Fail,648,96,9,94,41,1,B-One,Right
+Home,Andri V,Pass,649,27,61,38,59,1,B-One,Right
+Home,Mahardika,Pass,650,44,50,5,50,1,B-One,Right
+Home,Dhiya Ulhaq,Pass,651,4,56,59,61,1,B-One,Right
+Home,Asep Juandi,Pass,652,64,61,48,53,1,B-One,Right
+Home,Roni S,Pass,653,43,43,56,22,1,B-One,Right
+Home,Ridwan,Pass,654,57,23,76,13,1,B-One,Right
+Home,Ammar,Pass Fail,655,79,10,72,19,1,B-One,Right
+Home,Ammar,Shots On,656,73,33,93,39,1,B-One,Right
+Home,Jumagar,Intercept,657,29,74,-,-,1,B-One,Right
+Home,Rofi,Intercept,658,9,36,-,-,1,B-One,Right
+Home,Dhiya Ulhaq,Pass,659,4,58,12,60,1,B-One,Right
+Home,Rofi,Pass,660,8,56,6,35,1,B-One,Right
+Home,Andri V,Pass,661,9,32,24,15,1,B-One,Right
+Home,Antonius,Pass,662,24,4,17,15,1,B-One,Right
+Home,Rofi,Pass,663,11,30,3,40,1,B-One,Right
+Home,Dhiya Ulhaq,Pass,664,4,44,32,41,1,B-One,Right
+Home,Mahardika,Pass,665,28,48,10,71,1,B-One,Right
+Home,Andri V,Pass,666,12,70,47,68,1,B-One,Right
+Home,Asep Juandi,Pass Fail,667,57,76,58,56,1,B-One,Right
+Home,Asep Juandi,Pass,668,63,63,66,47,1,B-One,Right
+Home,Ammar,Pass,669,65,45,72,25,1,B-One,Right
+Home,Fikri N,Pass Fail,670,67,21,78,31,1,B-One,Right
+Home,Mahardika,Pass,671,58,1,65,11,1,B-One,Right
+Home,Ammar,Pass Fail,672,70,19,78,34,1,B-One,Right
+Home,Ammar,Pass Fail,673,78,34,-,-,1,B-One,Right
+Home,Jumagar,Pass,674,61,88,72,80,1,B-One,Right
+Home,Jumagar,Pass,675,53,80,66,69,1,B-One,Right
+Home,Roni S,Pass Fail,676,78,63,77,48,1,B-One,Right
+Home,Mahardika,Pass Fail,677,49,43,62,26,1,B-One,Right
+Home,Roni S,Pass Fail,678,60,35,74,39,1,B-One,Right
+Home,Asep Juandi,Shots Off,679,85,37,93,36,1,B-One,Right
+Home,Ammar,Pass Fail,680,98,3,94,33,1,B-One,Right
+Home,Mahardika,Intercept,681,53,69,-,-,1,B-One,Right
+Home,Mahardika,Pass,682,55,67,59,52,1,B-One,Right
+Home,Asep Juandi,Pass,683,59,59,-,-,1,B-One,Right
+Home,Asep Juandi,Pass,684,59,59,78,81,1,B-One,Right
+Home,Ammar,Pass,685,95,76,89,58,1,B-One,Right
+Home,Roni S,Shots Off,686,76,38,-,-,1,B-One,Right
+Home,Roni S,Shots Off,687,76,38,93,40,1,B-One,Right
+Home,Dhiya Ulhaq,Pass Fail,688,3,38,67,54,1,B-One,Right
+Home,Roni S,Pass Fail,689,35,56,47,57,1,B-One,Right
+Home,Roni S,Pass Fail,690,46,57,-,-,1,B-One,Right
+Home,Rofi,Pass Fail,691,11,45,31,38,1,B-One,Right
+Home,Dhiya Ulhaq,Pass,692,3,43,13,28,1,B-One,Right
+Home,Rofi,Pass,693,10,27,19,11,1,B-One,Right
+Home,Antonius,Pass Fail,694,26,8,28,20,1,B-One,Right
+Home,Rofi,Pass,695,11,26,20,21,1,B-One,Right
+Home,Fikri N,Pass,696,30,11,21,24,1,B-One,Right
+Home,Fikri N,Pass,697,30,12,48,28,1,B-One,Right
+Home,Jumagar,Pass,698,28,11,64,31,1,B-One,Right
+Home,Ridwan,Pass Fail,699,77,41,82,49,1,B-One,Right
+Home,Andri V,Intercept,700,54,82,-,-,1,B-One,Right
+Home,Andri V,Pass,701,62,76,73,68,1,B-One,Right
+Home,Asep Juandi,Pass Fail,702,81,66,78,47,1,B-One,Right
+Home,Antonius,Intercept,703,20,13,-,-,1,B-One,Right
+Home,Rofi,Intercept,704,10,31,-,-,1,B-One,Right
+Home,Mahardika,Intercept,705,41,62,-,-,1,B-One,Right
+Home,Roni S,Pass,706,44,55,66,74,1,B-One,Right
+Home,Ammar,Pass,707,74,86,56,76,1,B-One,Right
+Home,Mahardika,Pass,708,63,59,63,24,1,B-One,Right
+Home,Fikri N,Pass Fail,709,66,20,73,27,1,B-One,Right
+Home,Fikri N,Pass Fail,710,74,3,75,10,1,B-One,Right
+Home,Andri V,Pass Fail,711,27,74,51,77,1,B-One,Right
+Home,Jumagar,Pass,712,27,68,41,53,1,B-One,Right
+Home,Mahardika,Pass,713,44,56,19,61,1,B-One,Right
+Home,Rofi,Pass Fail,714,9,61,56,64,1,B-One,Right
+Home,Antonius,Pass Fail,715,16,32,77,18,1,B-One,Right
+Home,Rofi,Pass,716,12,63,31,68,1,B-One,Right
+Home,Jumagar,Pass,717,61,87,84,48,1,B-One,Right
+Home,Asep Juandi,Pass Fail,718,87,46,90,46,1,B-One,Right
+Home,Roni S,Pass,719,55,4,64,5,1,B-One,Right
+Home,Fikri N,Pass,720,70,9,87,65,1,B-One,Right
+Home,Ammar,Pass,721,88,71,86,64,1,B-One,Right
+Home,Ammar,Pass,722,86,64,-,-,1,B-One,Right
+Home,Jumagar,Shots Off,723,85,64,95,51,1,B-One,Right
+Home,Ammar,Intercept,724,65,81,-,-,1,B-One,Right
+Home,Rofi,Intercept,725,33,62,-,-,1,B-One,Right
+Home,Andri V,Pass,726,41,76,30,63,1,B-One,Right
+Home,Rofi,Pass,727,27,45,32,21,1,B-One,Right
+Home,Antonius,Pass,728,21,27,19,34,1,B-One,Right
+Home,Rofi,Pass,729,16,46,25,59,1,B-One,Right
+Home,Andri V,Pass,730,25,64,38,62,1,B-One,Right
+Home,Ammar,Pass,731,55,69,76,54,1,B-One,Right
+Home,Ridwan,Pass,732,79,48,73,23,1,B-One,Right
+Home,Fikri N,Pass,733,69,16,60,24,1,B-One,Right
+Home,Asep Juandi,Pass,734,57,25,60,13,1,B-One,Right
+Home,Antonius,Pass Fail,735,64,11,70,25,1,B-One,Right
+Home,Antonius,Intercept,736,25,8,-,-,1,B-One,Right
+Home,Antonius,Pass,737,21,11,13,33,1,B-One,Right
+Home,Dhiya Ulhaq,Pass,738,11,40,38,47,1,B-One,Right
+Home,Mahardika,Pass,739,42,40,-,-,1,B-One,Right
+Home,Roni S,Pass Fail,740,44,33,44,49,1,B-One,Right
+Home,Rofi,Intercept,741,18,59,-,-,1,B-One,Right
+Home,Andri V,Intercept,742,27,76,-,-,1,B-One,Right
+Home,Andri V,Pass,743,80,82,89,40,1,B-One,Right
+Home,Fikri N,Shots On,744,87,33,97,41,1,B-One,Right
+Home,Jumagar,Intercept,745,24,70,-,-,1,B-One,Right
+Home,Jumagar,Pass,746,31,64,42,52,1,B-One,Right
+Home,Roni S,Pass Fail,747,47,48,54,54,1,B-One,Right
+Home,Andri V,Intercept,748,18,79,-,-,1,B-One,Right
+Home,Andri V,Pass,749,22,80,42,70,1,B-One,Right
+Home,Roni S,Pass,750,47,66,68,32,1,B-One,Right
+Home,Asep Juandi,Pass Fail,751,77,32,72,37,1,B-One,Right
+Home,Rofi,Intercept,752,12,30,-,-,1,B-One,Right
+Home,Rofi,Pass,753,25,11,44,14,1,B-One,Right
+Home,Fikri N,Pass Fail,754,59,25,81,28,1,B-One,Right
+Home,Dhiya Ulhaq,Pass,755,3,47,11,59,1,B-One,Right
+Home,Andri V,Pass,756,9,65,12,44,1,B-One,Right
+Home,Rofi,Pass,757,10,34,-,-,1,B-One,Right
+Home,Rofi,Pass,758,10,34,53,64,1,B-One,Right
+Home,Ammar,Pass,759,45,56,47,27,1,B-One,Right
+Home,Fikri N,Pass,760,48,21,59,36,1,B-One,Right
+Home,Surya G,Pass,761,62,42,62,19,1,B-One,Right
+Home,Fikri N,Pass Fail,762,62,12,76,12,1,B-One,Right
+Home,Dhiya Ulhaq,Pass,763,4,40,65,70,1,B-One,Right
+Home,Jumagar,Pass,764,83,72,76,70,1,B-One,Right
+Home,Ammar,Pass Fail,765,77,70,76,63,1,B-One,Right
+Home,Rofi,Intercept,766,17,37,-,-,1,B-One,Right
+Home,Rofi,Pass,767,19,36,29,37,1,B-One,Right
+Home,Roni S,Pass Fail,768,30,31,25,18,1,B-One,Right
+Home,Rofi,Pass,769,18,23,42,25,1,B-One,Right
+Home,Surya G,Pass Fail,770,50,38,46,43,1,B-One,Right
+Home,Surya G,Intercept Fail,771,39,36,-,-,1,B-One,Right
+Home,Dhiya Ulhaq,Pass,772,5,36,28,20,1,B-One,Right
+Home,Fikri N,Pass,773,62,7,76,6,1,B-One,Right
+Home,Ammar,Pass Fail,774,93,17,93,30,1,B-One,Right
+Home,Rofi,Pass,775,21,26,25,19,1,B-One,Right
+Home,Antonius,Pass,776,26,22,28,60,1,B-One,Right
+Home,Andri V,Pass,777,27,72,55,80,1,B-One,Right
+Home,Jumagar,Shots Off,778,76,77,92,65,1,B-One,Right
+Home,Surya G,Tackle,779,42,53,-,-,1,B-One,Right
+Home,Surya G,Pass,780,27,52,25,80,1,B-One,Right
+Home,Andri V,Pass Fail,781,27,72,40,52,1,B-One,Right
+Home,Dhiya Ulhaq,Pass,782,7,53,26,53,1,B-One,Right
+Home,Roni S,Pass,783,33,59,-,-,1,B-One,Right
+Home,Roni S,Pass Fail,784,40,68,79,40,1,B-One,Right
+Home,Surya G,Pass Fail,785,71,43,76,39,1,B-One,Right
+Home,Surya G,Tackle,786,67,35,-,-,1,B-One,Right
+Home,Surya G,Pass,787,59,31,39,33,1,B-One,Right
+Home,Antonius,Pass,788,32,21,18,32,1,B-One,Right
+Home,Antonius,half time,789,50,50,-,-,0,B-One,
+Home,Antonius,half time,790,50,49,-,-,0,B-One,
+Home,Roni S,Intercept,791,65,61,-,-,2,B-One,Left
+Home,Jumagar,Pass,792,59,89,64,73,2,B-One,Left
+Home,Surya G,Pass,793,63,55,61,43,2,B-One,Left
+Home,Andri V,Intercept,794,80,33,-,-,2,B-One,Left
+Home,Andri V,Pass,795,79,32,57,34,2,B-One,Left
+Home,Surya G,Pass,796,53,28,65,15,2,B-One,Left
+Home,Fikri N,Pass,797,63,16,42,37,2,B-One,Left
+Home,Ammar,Pass,798,38,51,44,46,2,B-One,Left
+Home,Mahardika,Pass,799,45,47,38,62,2,B-One,Left
+Home,Ammar,Pass,800,27,72,14,81,2,B-One,Left
+Home,Jumagar,Pass Fail,801,9,79,5,61,2,B-One,Left
+Home,Eggi,Tackle,802,95,35,-,-,2,B-One,Left
+Home,Eggi,Pass,803,90,33,79,8,2,B-One,Left
+Home,Fikri N,Pass Fail,804,80,7,74,8,2,B-One,Left
+Home,Eggi,Pass Fail,805,69,22,77,26,2,B-One,Left
+Home,Roni S,Intercept,806,79,28,-,-,2,B-One,Left
+Home,Roni S,Pass,807,81,34,77,43,2,B-One,Left
+Home,Ammar,Pass,808,73,54,61,72,2,B-One,Left
+Home,Eggi,Pass,809,53,78,61,68,2,B-One,Left
+Home,Ammar,Pass,810,36,46,34,27,2,B-One,Left
+Home,Fikri N,Pass,811,32,31,21,77,2,B-One,Left
+Home,Jumagar,Pass Fail,812,23,67,16,49,2,B-One,Left
+Home,Rofi,Intercept,813,86,32,-,-,2,B-One,Left
+Home,Rofi,Pass,814,80,35,54,34,2,B-One,Left
+Home,Roni S,Pass,815,44,34,35,19,2,B-One,Left
+Home,Ammar,Pass Fail,816,2,5,6,30,2,B-One,Left
+Home,Antonius,Tackle Fail,817,66,75,-,-,2,B-One,Left
+Home,Dhiya Ulhaq,Pass,818,95,40,64,20,2,B-One,Left
+Home,Fikri N,Pass,819,57,12,33,17,2,B-One,Left
+Home,Ammar,Pass Fail,820,38,9,-,-,2,B-One,Left
+Home,Ammar,Pass Fail,821,38,9,25,17,2,B-One,Left
+Home,Roni S,Intercept Fail,822,58,49,-,-,2,B-One,Left
+Home,Dhiya Ulhaq,Pass Fail,823,90,37,29,24,2,B-One,Left
+Home,Surya G,Intercept,824,45,32,-,-,2,B-One,Left
+Home,Surya G,Pass,825,43,30,34,17,2,B-One,Left
+Home,Fikri N,Pass,826,31,12,25,32,2,B-One,Left
+Home,Surya G,Pass,827,28,35,28,49,2,B-One,Left
+Home,Ammar,Pass Fail,828,28,63,12,67,2,B-One,Left
+Home,Ammar,Shots On,829,30,49,3,50,2,B-One,Left
+Home,Andri V,Intercept Fail,830,45,11,-,-,2,B-One,Left
+Home,Rofi,Intercept,831,86,44,-,-,2,B-One,Left
+Home,Rofi,Pass,832,85,41,47,34,2,B-One,Left
+Home,Surya G,Pass,833,38,35,42,47,2,B-One,Left
+Home,Ammar,Pass,834,53,69,65,82,2,B-One,Left
+Home,Jumagar,Pass,835,68,72,75,58,2,B-One,Left
+Home,Jumagar,Pass,836,75,57,-,-,2,B-One,Left
+Home,Eggi,Pass,837,62,47,39,39,2,B-One,Left
+Home,Budi Hudni,Pass,838,29,28,29,25,2,B-One,Left
+Home,Fikri N,Pass Fail,839,13,9,6,34,2,B-One,Left
+Home,Eggi,Tackle Fail,840,46,28,-,-,2,B-One,Left
+Home,Andri V,Intercept,841,72,30,-,-,2,B-One,Left
+Home,Andri V,Pass Fail,842,76,36,50,22,2,B-One,Left
+Home,Roni S,Pass Fail,843,61,35,56,38,2,B-One,Left
+Home,Surya G,Pass,844,54,40,52,48,2,B-One,Left
+Home,Ammar,Pass Fail,845,52,53,47,51,2,B-One,Left
+Home,Jumagar,Pass,846,79,88,58,71,2,B-One,Left
+Home,Surya G,Pass,847,64,53,69,77,2,B-One,Left
+Home,Jumagar,Intercept,848,77,79,-,-,2,B-One,Left
+Home,Jumagar,Pass,849,64,80,56,80,2,B-One,Left
+Home,Ammar,Pass,850,45,81,23,85,2,B-One,Left
+Home,Budi Hudni,Pass,851,35,63,-,-,2,B-One,Left
+Home,Budi Hudni,Pass,852,30,77,30,64,2,B-One,Left
+Home,Eggi,Pass,853,43,61,38,51,2,B-One,Left
+Home,Roni S,Pass,854,41,42,30,40,2,B-One,Left
+Home,Surya G,Pass Fail,855,27,36,24,21,2,B-One,Left
+Home,Andri V,Pass Fail,856,58,39,23,32,2,B-One,Left
+Home,Ammar,Intercept,857,37,56,-,-,2,B-One,Left
+Home,Ammar,Pass,858,42,55,49,53,2,B-One,Left
+Home,Eggi,Pass,859,53,56,32,77,2,B-One,Left
+Home,Eggi,Pass Fail,860,48,58,32,78,2,B-One,Left
+Home,Jumagar,Pass,861,36,88,25,76,2,B-One,Left
+Home,Surya G,Pass,862,24,72,28,65,2,B-One,Left
+Home,Budi Hudni,Pass Fail,863,7,69,6,50,2,B-One,Left
+Home,Jumagar,Pass,864,53,85,44,70,2,B-One,Left
+Home,Surya G,Pass,865,41,69,47,57,2,B-One,Left
+Home,Roni S,Pass Fail,866,45,50,21,69,2,B-One,Left
+Home,Jumagar,Pass,867,34,89,34,71,2,B-One,Left
+Home,Surya G,Pass,868,35,54,33,76,2,B-One,Left
+Home,Jumagar,Pass Fail,869,32,86,24,85,2,B-One,Left
+Home,Jumagar,Pass,870,34,90,32,71,2,B-One,Left
+Home,Surya G,Pass,871,36,69,-,-,2,B-One,Left
+Home,Surya G,Pass,872,36,69,34,43,2,B-One,Left
+Home,Roni S,Pass,873,36,43,32,22,2,B-One,Left
+Home,Budi Hudni,Pass,874,26,9,54,13,2,B-One,Left
+Home,Andri V,Pass,875,65,21,30,10,2,B-One,Left
+Home,Eggi,Pass Fail,876,25,14,12,35,2,B-One,Left
+Home,Antonius,Intercept,877,24,59,-,-,2,B-One,Left
+Home,Antonius,Shots On,878,24,54,2,51,2,B-One,Left
+Home,Jumagar,Tackle Fail,879,70,61,-,-,2,B-One,Left
+Home,Jumagar,Pass Fail,880,70,62,42,55,2,B-One,Left
+Home,Andri V,Pass,881,90,34,37,38,2,B-One,Left
+Home,Andri V,Pass,882,76,30,46,37,2,B-One,Left
+Home,Roni S,Pass,883,41,36,63,58,2,B-One,Left
+Home,Antonius,Pass,884,63,75,43,81,2,B-One,Left
+Home,Jumagar,Pass Fail,885,20,74,11,55,2,B-One,Left
+Home,Surya G,Pass,886,42,72,29,53,2,B-One,Left
+Home,Eggi,Pass Fail,887,24,45,-,-,2,B-One,Left
+Home,Eggi,Pass Fail,888,24,45,14,59,2,B-One,Left
+Home,Eggi,Intercept,889,66,59,-,-,2,B-One,Left
+Home,Eggi,Pass,890,64,57,69,62,2,B-One,Left
+Home,Antonius,Pass,891,71,66,76,51,2,B-One,Left
+Home,Rofi,Pass,892,87,46,78,72,2,B-One,Left
+Home,Jumagar,Pass,893,59,53,-,-,2,B-One,Left
+Home,Eggi,Pass Fail,894,57,52,39,46,2,B-One,Left
+Home,Andri V,Intercept Fail,895,59,18,-,-,2,B-One,Left
+Home,Dhiya Ulhaq,Pass Fail,896,94,47,71,89,2,B-One,Left
+Home,Dhiya Ulhaq,Pass,897,89,46,76,46,2,B-One,Left
+Home,Eggi,Pass,898,66,44,42,23,2,B-One,Left
+Home,Ammar,Pass Fail,899,31,8,25,17,2,B-One,Left
+Home,Eggi,Intercept Fail,900,43,25,-,-,2,B-One,Left
+Home,Rofi,Intercept,901,84,34,-,-,2,B-One,Left
+Home,Rofi,Pass,902,81,34,69,34,2,B-One,Left
+Home,Eggi,Pass,903,69,33,60,26,2,B-One,Left
+Home,Roni S,Pass,904,53,19,35,14,2,B-One,Left
+Home,Ammar,Pass,905,37,13,38,32,2,B-One,Left
+Home,Surya G,Pass,906,39,59,29,75,2,B-One,Left
+Home,Irfan DJ,Pass Fail,907,23,71,22,28,2,B-One,Left
+Home,Eggi,Intercept,908,43,30,-,-,2,B-One,Left
+Home,Eggi,Pass,909,44,33,27,31,2,B-One,Left
+Home,Budi Hudni,Pass,910,26,45,24,50,2,B-One,Left
+Home,Eggi,Pass Fail,911,20,42,15,36,2,B-One,Left
+Home,Eggi,Intercept Fail,912,79,59,-,-,2,B-One,Left
+Home,Andri V,Intercept,913,81,27,-,-,2,B-One,Left
+Home,Andri V,Pass Fail,914,87,35,53,35,2,B-One,Left
+Home,Surya G,Pass,915,72,46,55,71,2,B-One,Left
+Home,Antonius,Pass,916,48,79,24,66,2,B-One,Left
+Home,Antonius,Intercept,917,74,77,-,-,2,B-One,Left
+Home,Antonius,Pass Fail,918,77,69,58,60,2,B-One,Left
+Home,Surya G,Intercept Fail,919,58,84,-,-,2,B-One,Left
+Home,Andri V,Intercept,920,72,21,-,-,2,B-One,Left
+Home,Andri V,Pass Fail,921,64,23,53,23,2,B-One,Left
+Home,Eggi,Intercept,922,70,32,-,-,2,B-One,Left
+Home,Eggi,Pass,923,70,34,64,74,2,B-One,Left
+Home,Irfan DJ,Pass,924,59,83,33,81,2,B-One,Left
+Home,Budi Hudni,Pass,925,33,81,34,59,2,B-One,Left
+Home,Eggi,Intercept Fail,926,36,53,-,-,2,B-One,Left
+Home,Andri V,Tackle,927,93,29,-,-,2,B-One,Left
+Home,Andri V,Pass Fail,928,93,27,63,22,2,B-One,Left
+Home,Andri V,Intercept Fail,929,70,22,-,-,2,B-One,Left
+Home,Dhiya Ulhaq,Pass,930,95,42,90,41,2,B-One,Left
+Home,Rofi,Pass,931,92,36,74,36,2,B-One,Left
+Home,Eggi,Pass,932,67,36,40,36,2,B-One,Left
+Home,Mubarok,Pass Fail,933,38,31,28,23,2,B-One,Left
+Home,Dhiya Ulhaq,Pass,934,94,55,78,83,2,B-One,Left
+Home,Antonius,Pass,935,88,81,80,50,2,B-One,Left
+Home,Eggi,Pass Fail,936,73,36,45,23,2,B-One,Left
+Away,Antonius,Intercepts Failed,937,69,85,62,83,1,X17 FC,Left
+Away,Aceng,Tackle Fail,938,39,61,35,58,1,X17 FC,Left
+Away,Rizki M,Pass,939,94,35,65,9,1,X17 FC,Left
+Away,Jumagar,Pass Fail,940,61,13,53,9,1,X17 FC,Left
+Away,Budi Hudni,Pass,941,51,7,56,13,1,X17 FC,Left
+Away,Jumagar,Pass Fail,942,55,16,28,23,1,X17 FC,Left
+Away,Rofi,Pass Fail,943,76,40,44,33,1,X17 FC,Left
+Away,Ridwan,Tackle,944,36,64,40,67,1,X17 FC,Left
+Away,Roni S,Pass,945,55,68,38,85,1,X17 FC,Left
+Away,Dzikri Akbar,Pass,946,36,80,35,60,1,X17 FC,Left
+Away,Antonius,Intercept,947,74,84,71,86,1,X17 FC,Left
+Away,Antonius,Pass Fail,948,73,86,42,79,1,X17 FC,Left
+Away,Antonius,Pass,949,39,93,36,70,1,X17 FC,Left
+Away,Antonius,Tackle,950,41,74,36,76,1,X17 FC,Left
+Away,Antonius,Pass,951,39,79,19,74,1,X17 FC,Left
+Away,Dzikri Akbar,Pass Fail,952,3,74,4,62,1,X17 FC,Left
+Away,Roni S,Intercepts Failed,953,43,51,35,55,1,X17 FC,Left
+Away,Ali M,Pass Fail,954,75,44,32,92,1,X17 FC,Left
+Away,Ali M,Intercept,955,75,29,79,38,1,X17 FC,Left
+Away,Rofi,Pass,956,80,45,56,52,1,X17 FC,Left
+Away,Mahardika,Pass,957,53,49,25,67,1,X17 FC,Left
+Away,Dzikri Akbar,Shots On,958,6,66,3,56,1,X17 FC,Left
+Away,Aceng,Intercept,959,36,45,33,42,1,X17 FC,Left
+Away,Aceng,Pass,960,36,49,20,31,1,X17 FC,Left
+Away,Budi Hudni,Pass Fail,961,20,30,17,41,1,X17 FC,Left
+Away,Rofi,Tackle Fail,962,47,42,38,46,1,X17 FC,Left
+Away,Antonius,Intercept,963,65,68,61,69,1,X17 FC,Left
+Away,Antonius,Pass,964,63,66,38,63,1,X17 FC,Left
+Away,Dzikri Akbar,Pass,965,52,66,33,68,1,X17 FC,Left
+Away,Antonius,Pass Fail,966,36,73,30,33,1,X17 FC,Left
+Away,Roni S,Pass Fail,967,41,33,20,40,1,X17 FC,Left
+Away,Jumagar,Shots Off,968,22,26,3,30,1,X17 FC,Left
+Away,Roni S,Tackle Fail,969,44,43,40,46,1,X17 FC,Left
+Away,Antonius,Tackle Fail,970,96,74,95,78,1,X17 FC,Left
+Away,Roni S,Pass Fail,971,61,39,27,22,1,X17 FC,Left
+Away,Rizki M,Pass Fail,972,77,42,52,34,1,X17 FC,Left
+Away,Rizki M,Pass,973,95,40,63,38,1,X17 FC,Left
+Away,Mahardika,Pass Fail,974,55,43,39,7,1,X17 FC,Left
+Away,Antonius,Tackle Fail,975,84,61,79,62,1,X17 FC,Left
+Away,Rofi,Tackle Fail,976,83,55,81,58,1,X17 FC,Left
+Away,Roni S,Tackle,977,61,78,64,72,1,X17 FC,Left
+Away,Roni S,Pass,978,67,65,66,43,1,X17 FC,Left
+Away,Aceng,Pass Fail,979,67,58,58,40,1,X17 FC,Left
+Away,Budi Hudni,Pass,980,41,43,41,17,1,X17 FC,Left
+Away,Jumagar,Pass Fail,981,36,10,7,33,1,X17 FC,Left
+Away,Mahardika,Intercepts Failed,982,29,30,27,35,1,X17 FC,Left
+Away,Jumagar,Intercept,983,44,13,43,17,1,X17 FC,Left
+Away,Jumagar,Pass,984,43,16,32,46,1,X17 FC,Left
+Away,Antonius,Pass,985,35,82,39,54,1,X17 FC,Left
+Away,Aceng,Pass,986,36,58,40,42,1,X17 FC,Left
+Away,Mahardika,Pass,987,40,42,22,70,1,X17 FC,Left
+Away,Aceng,Tackle,988,41,55,38,57,1,X17 FC,Left
+Away,Aceng,Pass,989,37,56,26,70,1,X17 FC,Left
+Away,Mahardika,Pass,990,31,69,21,53,1,X17 FC,Left
+Away,Ridwan,Pass,991,23,55,34,47,1,X17 FC,Left
+Away,Roni S,Pass,992,44,48,28,33,1,X17 FC,Left
+Away,Aceng,Pass,993,30,37,62,29,1,X17 FC,Left
+Away,Ali M,Pass,994,62,28,86,43,1,X17 FC,Left
+Away,Rizki M,Pass Fail,995,91,41,37,15,1,X17 FC,Left
+Away,Aceng,Pass Fail,996,41,28,38,26,1,X17 FC,Left
+Away,Aceng,Pass,997,40,26,56,19,1,X17 FC,Left
+Away,Jumagar,Pass,998,57,23,40,72,1,X17 FC,Left
+Away,Antonius,Pass Fail,999,41,82,20,47,1,X17 FC,Left
+Away,Rofi,Pass Fail,1000,74,59,45,10,1,X17 FC,Left
+Away,Ali M,Pass,1001,81,24,70,78,1,X17 FC,Left
+Away,Dzikri Akbar,Pass,1002,71,82,81,65,1,X17 FC,Left
+Away,Ali M,Intercept,1003,94,38,92,42,1,X17 FC,Left
+Away,Ali M,Pass Fail,1004,92,38,54,26,1,X17 FC,Left
+Away,Mahardika,Tackle Fail,1005,69,37,62,37,1,X17 FC,Left
+Away,Ridwan,Pass,1006,50,50,63,45,1,X17 FC,Left
+Away,Roni S,Pass,1007,64,37,28,84,1,X17 FC,Left
+Away,Dzikri Akbar,Pass,1008,24,77,46,75,1,X17 FC,Left
+Away,Aceng,Pass,1009,38,77,53,57,1,X17 FC,Left
+Away,Roni S,Pass Fail,1010,59,59,31,41,1,X17 FC,Left
+Away,Jumagar,Intercept,1011,55,33,53,38,1,X17 FC,Left
+Away,Jumagar,Pass Fail,1012,54,32,27,41,1,X17 FC,Left
+Away,Jumagar,Tackle Fail,1013,94,27,98,26,1,X17 FC,Left
+Away,Budi Hudni,Intercepts Failed,1014,97,35,94,42,1,X17 FC,Left
+Away,Rizki M,Pass,1015,96,43,89,33,1,X17 FC,Left
+Away,Ali M,Pass,1016,92,32,76,10,1,X17 FC,Left
+Away,Jumagar,Pass,1017,79,9,59,7,1,X17 FC,Left
+Away,Budi Hudni,Pass,1018,61,10,66,25,1,X17 FC,Left
+Away,Roni S,Pass,1019,73,25,63,9,1,X17 FC,Left
+Away,Budi Hudni,Pass,1020,62,9,70,25,1,X17 FC,Left
+Away,Roni S,Pass,1021,72,16,60,35,1,X17 FC,Left
+Away,Aceng,Pass,1022,67,35,45,23,1,X17 FC,Left
+Away,Ali M,Tackle Fail,1023,69,28,60,25,1,X17 FC,Left
+Away,Rizki M,Pass,1024,92,38,56,25,1,X17 FC,Left
+Away,Budi Hudni,Pass,1025,53,27,69,33,1,X17 FC,Left
+Away,Roni S,Pass,1026,74,29,29,39,1,X17 FC,Left
+Away,Ridwan,Pass Fail,1027,26,46,21,54,1,X17 FC,Left
+Away,Aceng,Tackle Fail,1028,41,54,35,59,1,X17 FC,Left
+Away,Rizki M,Pass,1029,77,43,34,56,1,X17 FC,Left
+Away,Roni S,Shots Off,1030,43,60,3,33,1,X17 FC,Left
+Away,Roni S,Intercepts Failed,1031,43,56,38,61,1,X17 FC,Left
+Away,Rofi,Pass Fail,1032,44,56,27,64,1,X17 FC,Left
+Away,Rofi,Tackle,1033,57,63,63,69,1,X17 FC,Left
+Away,Rofi,Pass,1034,62,63,75,81,1,X17 FC,Left
+Away,Antonius,Pass,1035,68,76,31,76,1,X17 FC,Left
+Away,Dzikri Akbar,Pass,1036,34,76,46,51,1,X17 FC,Left
+Away,Aceng,Pass,1037,42,56,57,43,1,X17 FC,Left
+Away,Roni S,Pass,1038,57,38,32,40,1,X17 FC,Left
+Away,Ridwan,Pass Fail,1039,30,47,13,64,1,X17 FC,Left
+Away,Aceng,Tackle Fail,1040,27,78,21,83,1,X17 FC,Left
+Away,Aceng,Tackle Fail,1041,37,76,43,85,1,X17 FC,Left
+Away,Dzikri Akbar,Pass Fail,1042,28,89,34,69,1,X17 FC,Left
+Away,Roni S,Pass Fail,1043,56,63,23,58,1,X17 FC,Left
+Away,Budi Hudni,Tackle Fail,1044,18,56,25,59,1,X17 FC,Left
+Away,Roni S,Tackle,1045,45,46,35,50,1,X17 FC,Left
+Away,Roni S,Pass,1046,44,47,36,54,1,X17 FC,Left
+Away,Aceng,Pass,1047,40,51,30,77,1,X17 FC,Left
+Away,Dzikri Akbar,Pass,1048,26,77,28,54,1,X17 FC,Left
+Away,Dzikri Akbar,Pass Fail,1049,3,73,9,47,1,X17 FC,Left
+Away,Budi Hudni,Pass,1050,32,58,19,75,1,X17 FC,Left
+Away,Roni S,Intercept,1051,45,47,34,60,1,X17 FC,Left
+Away,Ridwan,Pass,1052,35,68,23,82,1,X17 FC,Left
+Away,Dzikri Akbar,Pass,1053,17,76,16,57,1,X17 FC,Left
+Away,Jumagar,Corner,1054,2,92,7,55,1,X17 FC,Left
+Away,Jumagar,Pass Fail,1055,2,89,1,57,1,X17 FC,Left
+Away,Aceng,Tackle Fail,1056,42,48,36,48,1,X17 FC,Left
+Away,Roni S,Intercept,1057,45,46,35,40,1,X17 FC,Left
+Away,Roni S,Pass,1058,47,37,37,26,1,X17 FC,Left
+Away,Aceng,Pass,1059,57,52,39,26,1,X17 FC,Left
+Away,Budi Hudni,Pass,1060,39,26,35,11,1,X17 FC,Left
+Away,Mahardika,SUBS  OUT,1061,53,7,53,4,1,X17 FC,Left
+Away,Fikri N,SUBS  IN,1062,53,90,52,83,1,X17 FC,Left
+Away,Ridwan,Intercept,1063,44,67,35,66,1,X17 FC,Left
+Away,Rizki M,Pass,1064,91,42,58,5,1,X17 FC,Left
+Away,Ali M,Pass Fail,1065,80,27,39,23,1,X17 FC,Left
+Away,Fikri N,Pass,1066,30,4,34,25,1,X17 FC,Left
+Away,Jumagar,Pass,1067,35,19,30,7,1,X17 FC,Left
+Away,Ali M,Intercept,1068,72,21,72,11,1,X17 FC,Left
+Away,Ali M,Intercept,1069,91,38,78,5,1,X17 FC,Left
+Away,Fikri N,Corner,1070,3,91,9,29,1,X17 FC,Left
+Away,Aceng,Tackle Fail,1071,11,32,12,38,1,X17 FC,Left
+Away,Ali M,Pass,1072,80,51,75,63,1,X17 FC,Left
+Away,Rofi,Pass Fail,1073,74,67,11,30,1,X17 FC,Left
+Away,Ali M,Pass Fail,1074,76,26,52,28,1,X17 FC,Left
+Away,Ali M,Pass,1075,82,35,64,37,1,X17 FC,Left
+Away,Roni S,Pass,1076,71,43,55,12,1,X17 FC,Left
+Away,Rizki M,Pass,1077,90,52,81,72,1,X17 FC,Left
+Away,Rofi,Pass,1078,79,68,73,57,1,X17 FC,Left
+Away,Budi Hudni,Pass,1079,75,66,75,54,1,X17 FC,Left
+Away,Roni S,Pass,1080,74,60,61,63,1,X17 FC,Left
+Away,Budi Hudni,Pass Fail,1081,65,50,69,72,1,X17 FC,Left
+Away,Rofi,Pass,1082,30,90,30,61,1,X17 FC,Left
+Away,Budi Hudni,Pass,1083,23,71,30,58,1,X17 FC,Left
+Away,Fikri N,Shots On,1084,25,69,3,49,1,X17 FC,Left
+Away,Roni S,Tackle,1085,77,43,64,38,1,X17 FC,Left
+Away,Rizki M,Pass,1086,78,39,70,24,1,X17 FC,Left
+Away,Ali M,Pass,1087,73,31,63,19,1,X17 FC,Left
+Away,Roni S,Pass,1088,71,25,28,34,1,X17 FC,Left
+Away,Ridwan,Pass Fail,1089,25,38,38,39,1,X17 FC,Left
+Away,Rofi,Pass Fail,1090,38,85,18,52,1,X17 FC,Left
+Away,Rizki M,Pass Fail,1091,98,50,44,57,1,X17 FC,Left
+Away,Jumagar,Intercept,1092,63,20,74,22,1,X17 FC,Left
+Away,Jumagar,Pass,1093,63,23,43,6,1,X17 FC,Left
+Away,Fikri N,Pass,1094,39,17,40,26,1,X17 FC,Left
+Away,Aceng,Pass Fail,1095,42,25,37,16,1,X17 FC,Left
+Away,Roni S,Tackle,1096,61,14,53,22,1,X17 FC,Left
+Away,Jumagar,Pass,1097,55,7,29,26,1,X17 FC,Left
+Away,Budi Hudni,Pass,1098,36,19,45,19,1,X17 FC,Left
+Away,Jumagar,Pass,1099,42,8,31,22,1,X17 FC,Left
+Away,Aceng,Pass,1100,41,25,34,9,1,X17 FC,Left
+Away,Fikri N,Pass,1101,41,9,25,6,1,X17 FC,Left
+Away,Budi Hudni,Pass,1102,29,13,38,28,1,X17 FC,Left
+Away,Roni S,Pass Fail,1103,37,19,13,38,1,X17 FC,Left
+Away,Aceng,Intercept,1104,26,44,25,51,1,X17 FC,Left
+Away,Aceng,Pass,1105,26,52,37,67,1,X17 FC,Left
+Away,Rofi,Shots On,1106,28,62,1,56,1,X17 FC,Left
+Away,Dzikri Akbar,Tackle,1107,34,53,31,61,1,X17 FC,Left
+Away,Dzikri Akbar,Pass,1108,36,57,29,76,1,X17 FC,Left
+Away,Ridwan,Pass Fail,1109,21,62,22,48,1,X17 FC,Left
+Away,HALF TIME,HALF TIME,1110,50,50,-,-,0,X17 FC,
+Away,HALF TIME,HALF TIME,1111,50,50,-,-,0,X17 FC,
+Away,Antonius,Pass,1112,21,56,20,34,2,X17 FC,Right
+Away,Ali M,Pass,1113,21,28,29,11,2,X17 FC,Right
+Away,Rofi,Pass Fail,1114,33,6,80,3,2,X17 FC,Right
+Away,Aceng,Tackle Fail,1115,43,67,44,61,2,X17 FC,Right
+Away,Ali M,Intercept,1116,21,30,33,43,2,X17 FC,Right
+Away,Roni S,Pass,1117,26,50,33,72,2,X17 FC,Right
+Away,Asep Juandi,Pass,1118,33,73,26,49,2,X17 FC,Right
+Away,Roni S,Pass Fail,1119,34,45,39,43,2,X17 FC,Right
+Away,Aceng,Pass,1120,31,60,38,40,2,X17 FC,Right
+Away,Roni S,Pass Fail,1121,31,32,67,30,2,X17 FC,Right
+Away,Roni S,Pass,1122,31,38,78,77,2,X17 FC,Right
+Away,Asep Juandi,Pass Fail,1123,87,83,88,49,2,X17 FC,Right
+Away,Ali M,Intercept,1124,19,34,23,27,2,X17 FC,Right
+Away,Antonius,Pass Fail,1125,21,49,36,67,2,X17 FC,Right
+Away,Ridwan,Intercept,1126,69,62,64,53,2,X17 FC,Right
+Away,Dimas Bayu,Pass,1127,11,47,32,35,2,X17 FC,Right
+Away,Aceng,Pass,1128,35,55,31,44,2,X17 FC,Right
+Away,Dimas Bayu,Tackle Fail,1129,10,38,13,34,2,X17 FC,Right
+Away,Ridwan,Pass,1130,49,49,39,48,2,X17 FC,Right
+Away,Budi Hudni,Pass,1131,32,43,39,23,2,X17 FC,Right
+Away,Rofi,Pass,1132,41,20,35,36,2,X17 FC,Right
+Away,Budi Hudni,Pass,1133,38,38,66,73,2,X17 FC,Right
+Away,Asep Juandi,Pass,1134,68,71,66,46,2,X17 FC,Right
+Away,Antonius,Pass,1135,26,51,38,45,2,X17 FC,Right
+Away,Roni S,Pass Fail,1136,34,39,81,36,2,X17 FC,Right
+Away,Rofi,Intercept,1137,20,14,33,22,2,X17 FC,Right
+Away,Rofi,Pass,1138,25,18,35,24,2,X17 FC,Right
+Away,Roni S,Pass,1139,29,27,42,32,2,X17 FC,Right
+Away,Roni S,Pass Fail,1140,23,29,76,63,2,X17 FC,Right
+Away,Antonius,Pass Fail,1141,27,43,53,45,2,X17 FC,Right
+Away,Antonius,Pass,1142,25,58,43,62,2,X17 FC,Right
+Away,Ali M,Intercept,1143,25,42,23,50,2,X17 FC,Right
+Away,Dimas Bayu,Pass,1144,3,41,8,35,2,X17 FC,Right
+Away,Ali M,Pass,1145,13,32,23,13,2,X17 FC,Right
+Away,Rofi,Pass,1146,21,14,8,31,2,X17 FC,Right
+Away,Ali M,Pass,1147,11,34,13,61,2,X17 FC,Right
+Away,Antonius,Pass,1148,10,58,13,30,2,X17 FC,Right
+Away,Ali M,Pass,1149,12,27,28,11,2,X17 FC,Right
+Away,Rofi,Pass,1150,36,9,64,7,2,X17 FC,Right
+Away,Roni S,Intercept Fail,1151,38,59,31,52,2,X17 FC,Right
+Away,Budi Hudni,Pass,1152,33,21,24,30,2,X17 FC,Right
+Away,Roni S,Pass Fail,1153,32,27,81,35,2,X17 FC,Right
+Away,Fikri N,Tackle Fail,1154,66,29,69,34,2,X17 FC,Right
+Away,Roni S,Pass,1155,63,25,77,69,2,X17 FC,Right
+Away,Budi Hudni,Pass,1156,71,15,61,29,2,X17 FC,Right
+Away,Asep Juandi,Pass Fail,1157,72,72,75,63,2,X17 FC,Right
+Away,Rizal Fadhilah,Intercept,1158,76,72,70,66,2,X17 FC,Right
+Away,Rizal Fadhilah,Pass,1159,68,65,63,52,2,X17 FC,Right
+Away,Roni S,Pass,1160,63,38,78,21,2,X17 FC,Right
+Away,Fikri N,Corner,1161,98,3,96,45,2,X17 FC,Right
+Away,Fikri N,Pass Fail,1162,97,3,97,42,2,X17 FC,Right
+Away,Rizal Fadhilah,Intercept,1163,70,90,77,87,2,X17 FC,Right
+Away,Rizal Fadhilah,Pass,1164,71,86,74,66,2,X17 FC,Right
+Away,Roni S,Pass Fail,1165,65,78,73,60,2,X17 FC,Right
+Away,Asep Juandi,Pass,1166,73,71,66,56,2,X17 FC,Right
+Away,Rizal Fadhilah,Pass Fail,1167,68,55,78,41,2,X17 FC,Right
+Away,Antonius,Intercept,1168,22,32,24,36,2,X17 FC,Right
+Away,Antonius,Pass,1169,23,37,43,56,2,X17 FC,Right
+Away,Fikri N,Pass Fail,1170,60,21,99,18,2,X17 FC,Right
+Away,Roni S,Tackle,1171,48,47,45,50,2,X17 FC,Right
+Away,Rizal Fadhilah,Shots Off,1172,75,62,97,35,2,X17 FC,Right
+Away,Roni S,Pass Fail,1173,39,46,61,45,2,X17 FC,Right
+Away,Fikri N,Pass Fail,1174,74,37,79,41,2,X17 FC,Right
+Away,Fikri N,Yellow Card,1175,73,41,77,44,2,X17 FC,Right
+Away,Fikri N,Tackle Fail,1176,76,40,78,46,2,X17 FC,Right
+Away,Fikri N,Intercept,1177,61,74,80,74,2,X17 FC,Right
+Away,Ridwan,Pass,1178,80,75,72,62,2,X17 FC,Right
+Away,Rofi,Pass,1179,25,5,16,20,2,X17 FC,Right
+Away,Ali M,Pass,1180,23,25,23,50,2,X17 FC,Right
+Away,Antonius,Pass,1181,23,59,30,81,2,X17 FC,Right
+Away,Irfan DJ,Pass,1182,29,78,5,53,2,X17 FC,Right
+Away,Dimas Bayu,Pass Fail,1183,5,52,36,67,2,X17 FC,Right
+Away,Antonius,Intercept Fail,1184,20,51,22,58,2,X17 FC,Right
+Away,Irfan DJ,Tackle Fail,1185,3,62,3,65,2,X17 FC,Right
+Away,Rizal Fadhilah,Pass,1186,20,78,35,77,2,X17 FC,Right
+Away,Dimas Bayu,Pass,1187,9,49,10,61,2,X17 FC,Right
+Away,Antonius,Pass,1188,23,60,22,32,2,X17 FC,Right
+Away,Ali M,Pass,1189,18,29,29,10,2,X17 FC,Right
+Away,Rofi,Pass,1190,23,11,39,10,2,X17 FC,Right
+Away,Rofi,Pass,1191,21,23,39,29,2,X17 FC,Right
+Away,Rofi,Intercept,1192,18,20,24,23,2,X17 FC,Right
+Away,Roni S,Pass,1193,31,28,65,29,2,X17 FC,Right
+Away,Budi Hudni,Pass,1194,68,32,43,29,2,X17 FC,Right
+Away,Roni S,Pass,1195,33,29,79,57,2,X17 FC,Right
+Away,Rofi,Pass,1196,23,19,37,35,2,X17 FC,Right
+Away,Rofi,Intercept,1197,27,20,35,29,2,X17 FC,Right
+Away,Roni S,Pass,1198,43,34,55,56,2,X17 FC,Right
+Away,Irfan DJ,Pass Fail,1199,63,80,79,57,2,X17 FC,Right
+Away,Fikri N,Tackle Fail,1200,71,55,65,60,2,X17 FC,Right
+Away,Antonius,Tackle,1201,23,62,29,57,2,X17 FC,Right
+Away,Rizal Fadhilah,Pass,1202,54,31,75,77,2,X17 FC,Right
+Away,Fikri N,Shots Off,1203,68,80,98,32,2,X17 FC,Right
+Away,Dimas Bayu,Save,1204,4,45,-,-,2,X17 FC,Right
+Away,Dimas Bayu,Pass,1205,14,47,18,54,2,X17 FC,Right
+Away,Althop,Pass,1206,14,52,15,78,2,X17 FC,Right
+Away,Irfan DJ,Pass,1207,15,83,15,61,2,X17 FC,Right
+Away,Althop,Pass,1208,14,60,28,58,2,X17 FC,Right
+Away,Althop,Pass,1209,9,60,40,58,2,X17 FC,Right
+Away,Budi Hudni,Pass,1210,30,59,13,65,2,X17 FC,Right
+Away,Antonius,Intercept,1211,19,25,16,40,2,X17 FC,Right
+Away,Antonius,Pass Fail,1212,14,29,14,43,2,X17 FC,Right
+Away,Irfan DJ,Pass,1213,24,72,24,53,2,X17 FC,Right
+Away,Roni S,Pass,1214,26,60,32,22,2,X17 FC,Right
+Away,Rofi,Pass,1215,26,18,19,40,2,X17 FC,Right
+Away,Ridwan,Pass,1216,49,51,32,54,2,X17 FC,Right
+Away,Budi Hudni,Pass,1217,36,50,40,30,2,X17 FC,Right
+Away,Roni S,Pass,1218,53,31,73,40,2,X17 FC,Right
+Away,Fikri N,Pass,1219,76,47,70,35,2,X17 FC,Right
+Away,Budi Hudni,Tackle Fail,1220,67,28,74,31,2,X17 FC,Right
+Away,Dimas Bayu,Pass,1221,7,50,9,59,2,X17 FC,Right
+Away,Althop,Pass,1222,11,56,16,90,2,X17 FC,Right
+Away,Irfan DJ,Pass,1223,19,84,24,56,2,X17 FC,Right
+Away,Antonius,Pass Fail,1224,19,59,60,73,2,X17 FC,Right
+Away,Roni S,Pass Fail,1225,38,57,73,42,2,X17 FC,Right
+Away,Rizal Fadhilah,Pass Fail,1226,59,27,76,24,2,X17 FC,Right
+Away,Rizal Fadhilah,Pass,1227,67,23,73,34,2,X17 FC,Right
+Away,Rizal Fadhilah,Pass,1228,65,20,88,31,2,X17 FC,Right
+Away,Budi Hudni,Pass,1229,81,28,62,27,2,X17 FC,Right
+Away,Naldi,Pass,1230,71,46,71,32,2,X17 FC,Right
+Away,Roni S,Pass,1231,66,28,76,45,2,X17 FC,Right
+Away,Naldi,Pass,1232,73,45,85,32,2,X17 FC,Right
+Away,Rizal Fadhilah,Pass Fail,1233,73,7,89,37,2,X17 FC,Right
+Away,Roni S,Tackle Fail,1234,76,29,80,34,2,X17 FC,Right
+Away,Naldi,Intercept,1235,66,71,75,68,2,X17 FC,Right
+Away,Naldi,Pass,1236,81,68,86,35,2,X17 FC,Right
+Away,Rofi,Intercept Fail,1237,57,23,63,23,2,X17 FC,Right
+Away,Naldi,Pass,1238,58,47,58,75,2,X17 FC,Right
+Away,Irfan DJ,Pass Fail,1239,87,84,90,37,2,X17 FC,Right
+Away,Dimas Bayu,Pass,1240,8,50,19,24,2,X17 FC,Right
+Away,Rofi,Pass,1241,23,11,55,11,2,X17 FC,Right
+Away,Hendra DP,Pass,1242,25,45,24,23,2,X17 FC,Right
+Away,Rofi,Pass Fail,1243,21,23,33,35,2,X17 FC,Right
+Away,Antonius,Pass,1244,19,50,32,47,2,X17 FC,Right
+Away,Antonius,Intercept,1245,19,39,-,-,2,X17 FC,Right
+Away,Naldi,Pass Fail,1246,21,61,65,33,2,X17 FC,Right
+Away,Rofi,Intercept,1247,22,38,27,40,2,X17 FC,Right
+Away,Rofi,Pass,1248,24,30,38,47,2,X17 FC,Right
+Away,Asep Juandi,Tackle Fail,1249,61,10,65,7,2,X17 FC,Right
+Away,Hendra DP,Tackle Fail,1250,35,22,40,28,2,X17 FC,Right
+Home,Rizki M,Save,1251,3,45,-,-,1,Cirebon United,Right
+Home,Rizki M,Pass,1252,8,40,21,11,1,Cirebon United,Right
+Home,Rizki M,Pass,1253,3,43,7,43,1,Cirebon United,Right
+Home,Agil,Pass,1254,12,34,19,11,1,Cirebon United,Right
+Home,Antonius,Pass,1255,21,18,24,36,1,Cirebon United,Right
+Home,Agil,Pass,1256,11,42,37,43,1,Cirebon United,Right
+Home,Hafidz,Pass,1257,38,38,31,78,1,Cirebon United,Right
+Home,Andri V,Pass,1258,29,83,75,83,1,Cirebon United,Right
+Home,Roni S,Intercept Fail,1259,73,47,73,57,1,Cirebon United,Right
+Home,Andri V,Pass,1260,71,93,84,87,1,Cirebon United,Right
+Home,Deni Nurul,Intercept Fail,1261,70,76,73,83,1,Cirebon United,Right
+Home,Antonius,Intercept,1262,36,51,39,59,1,Cirebon United,Right
+Home,Antonius,Pass,1263,39,38,66,50,1,Cirebon United,Right
+Home,Roni S,Pass,1264,70,5,79,15,1,Cirebon United,Right
+Home,Agil,Pass,1265,34,24,40,11,1,Cirebon United,Right
+Home,Antonius,Pass,1266,38,9,23,22,1,Cirebon United,Right
+Home,Agil,Pass,1267,32,17,21,45,1,Cirebon United,Right
+Home,Ali M,Pass,1268,24,51,28,70,1,Cirebon United,Right
+Home,Andri V,Pass Fail,1269,34,68,76,42,1,Cirebon United,Right
+Home,Antonius,Intercept,1270,23,9,41,11,1,Cirebon United,Right
+Home,Antonius,Pass,1271,23,12,40,15,1,Cirebon United,Right
+Home,Fikri N,Tackle Fail,1272,45,6,37,10,1,Cirebon United,Right
+Home,Bebeto,Intercept,1273,18,65,13,70,1,Cirebon United,Right
+Home,Bebeto,Pass Fail,1274,26,82,24,70,1,Cirebon United,Right
+Home,Agil,Pass,1275,13,38,24,78,1,Cirebon United,Right
+Home,Andri V,Pass,1276,31,73,30,46,1,Cirebon United,Right
+Home,Deni Nurul,Pass,1277,31,50,41,40,1,Cirebon United,Right
+Home,Noval Fajar ,Pass,1278,41,36,70,82,1,Cirebon United,Right
+Home,Andri V,Pass,1279,48,90,59,74,1,Cirebon United,Right
+Home,Bebeto,Pass Fail,1280,65,66,69,94,1,Cirebon United,Right
+Home,Hafidz,Intercept,1281,73,56,74,60,1,Cirebon United,Right
+Home,Agil,Pass Fail,1282,59,74,90,47,1,Cirebon United,Right
+Home,Deni Nurul,Tackle Fail,1283,32,35,36,40,1,Cirebon United,Right
+Home,Rizki M,Pass,1284,3,44,8,35,1,Cirebon United,Right
+Home,Agil,Pass,1285,7,33,13,65,1,Cirebon United,Right
+Home,Ali M,Pass,1286,9,60,18,85,1,Cirebon United,Right
+Home,Andri V,Pass,1287,22,81,25,53,1,Cirebon United,Right
+Home,Deni Nurul,Pass,1288,19,48,25,40,1,Cirebon United,Right
+Home,Roni S,Pass Fail,1289,21,46,27,71,1,Cirebon United,Right
+Home,Ali M,Pass Fail,1290,17,69,66,65,1,Cirebon United,Right
+Home,Andri V,Pass Fail,1291,32,92,76,89,1,Cirebon United,Right
+Home,Andri V,Intercept Fail,1292,63,81,69,86,1,Cirebon United,Right
+Home,Noval Fajar ,Tackle Fail,1293,65,59,68,66,1,Cirebon United,Right
+Home,Roni S,Pass,1294,36,30,70,34,1,Cirebon United,Right
+Home,Hafidz,Pass,1295,63,30,77,69,1,Cirebon United,Right
+Home,Bebeto,Pass,1296,87,73,89,52,1,Cirebon United,Right
+Home,Andri V,Pass Fail,1297,82,92,90,63,1,Cirebon United,Right
+Home,Roni S,Tackle Fail,1298,89,47,90,52,1,Cirebon United,Right
+Home,Deni Nurul,Tackle,1299,39,54,41,71,1,Cirebon United,Right
+Home,Deni Nurul,Pass,1300,42,64,37,49,1,Cirebon United,Right
+Home,Roni S,Pass Fail,1301,39,45,30,49,1,Cirebon United,Right
+Home,Antonius,Pass,1302,24,30,37,19,1,Cirebon United,Right
+Home,Agil,Pass Fail,1303,27,15,72,16,1,Cirebon United,Right
+Home,Antonius,Pass Fail,1304,55,9,88,32,1,Cirebon United,Right
+Home,Fikri N,Pass,1305,66,7,50,14,1,Cirebon United,Right
+Home,Andri V,Pass Fail,1306,36,76,60,69,1,Cirebon United,Right
+Home,Deni Nurul,Pass,1307,49,39,80,82,1,Cirebon United,Right
+Home,Andri V,Pass,1308,69,89,59,71,1,Cirebon United,Right
+Home,Deni Nurul,Pass,1309,59,80,38,61,1,Cirebon United,Right
+Home,Ali M,Pass,1310,41,63,39,42,1,Cirebon United,Right
+Home,Agil,Pass,1311,39,37,52,12,1,Cirebon United,Right
+Home,Ali M,Pass Fail,1312,23,68,32,89,1,Cirebon United,Right
+Home,Roni S,Tackle Fail,1313,36,64,36,68,1,Cirebon United,Right
+Home,Andri V,Pass,1314,15,69,28,61,1,Cirebon United,Right
+Home,Deni Nurul,Pass,1315,29,54,48,53,1,Cirebon United,Right
+Home,Antonius,Pass,1316,30,7,30,20,1,Cirebon United,Right
+Home,Deni Nurul,Pass Fail,1317,33,15,69,40,1,Cirebon United,Right
+Home,Roni S,Pass,1318,41,40,84,62,1,Cirebon United,Right
+Home,Fikri N,Corner Failed,1319,99,91,92,51,1,Cirebon United,Right
+Home,Agil,Pass Fail,1320,26,67,81,40,1,Cirebon United,Right
+Home,Andri V,Intercept,1321,27,68,29,71,1,Cirebon United,Right
+Home,Andri V,Pass Fail,1322,29,90,62,90,1,Cirebon United,Right
+Home,Ali M,Intercept Fail,1323,28,56,29,61,1,Cirebon United,Right
+Home,Ali M,Pass,1324,19,62,20,45,1,Cirebon United,Right
+Home,Agil,Pass,1325,17,37,33,14,1,Cirebon United,Right
+Home,Deni Nurul,Intercept Fail,1326,29,20,31,25,1,Cirebon United,Right
+Home,Fikri N,Tackle Fail,1327,33,13,-,-,1,Cirebon United,Right
+Home,Roni S,Pass Fail,1328,20,29,63,47,1,Cirebon United,Right
+Home,Andri V,Pass,1329,62,93,73,84,1,Cirebon United,Right
+Home,Rizki M,Pass,1330,6,49,44,21,1,Cirebon United,Right
+Home,Antonius,Pass,1331,40,17,34,41,1,Cirebon United,Right
+Home,Deni Nurul,Pass,1332,35,34,33,52,1,Cirebon United,Right
+Home,Ali M,Tackle Fail,1333,7,60,7,65,1,Cirebon United,Right
+Home,Agil,Pass,1334,19,27,53,19,1,Cirebon United,Right
+Home,Ali M,Pass Fail,1335,15,60,78,67,1,Cirebon United,Right
+Home,Deni Nurul,Tackle,1336,36,49,33,51,1,Cirebon United,Right
+Home,Agil,Goal,1337,90,59,97,46,1,Cirebon United,Right
+Home,Noval Fajar ,Tackle,1338,42,29,39,35,1,Cirebon United,Right
+Home,Noval Fajar ,Pass,1339,39,33,36,45,1,Cirebon United,Right
+Home,Roni S,Pass,1340,36,33,46,45,1,Cirebon United,Right
+Home,Andri V,Intercept Fail,1341,30,68,34,75,1,Cirebon United,Right
+Home,Agil,Pass Fail,1342,32,69,82,50,1,Cirebon United,Right
+Home,Deni Nurul,Tackle Fail,1343,62,31,68,28,1,Cirebon United,Right
+Home,Andri V,Tackle Fail,1344,29,46,32,38,1,Cirebon United,Right
+Home,Rizki M,Pass,1345,6,42,9,34,1,Cirebon United,Right
+Home,Agil,Pass,1346,8,35,36,12,1,Cirebon United,Right
+Home,Roni S,Pass Fail,1347,25,41,74,54,1,Cirebon United,Right
+Home,Ali M,Intercept,1348,19,57,21,63,1,Cirebon United,Right
+Home,Ali M,Pass,1349,24,67,55,60,1,Cirebon United,Right
+Home,Fikri N,Pass,1350,96,82,90,56,1,Cirebon United,Right
+Home,Rizki M,Pass,1351,5,51,9,61,1,Cirebon United,Right
+Home,Roni S,Intercept Fail,1352,31,44,36,36,1,Cirebon United,Right
+Home,Antonius,Tackle Fail,1353,35,17,42,24,1,Cirebon United,Right
+Home,Andri V,Pass,1354,67,82,67,66,1,Cirebon United,Right
+Home,Rizki M,Pass,1355,11,54,62,83,1,Cirebon United,Right
+Home,Noval Fajar ,Pass,1356,55,61,67,85,1,Cirebon United,Right
+Home,Andri V,Pass,1357,63,87,82,62,1,Cirebon United,Right
+Home,Hafidz,Pass,1358,88,60,83,48,1,Cirebon United,Right
+Home,Fikri N,Corner,1359,98,4,92,17,1,Cirebon United,Right
+Home,Hafidz,Pass Fail,1360,97,24,97,43,1,Cirebon United,Right
+Home,Roni S,Tackle Fail,1361,11,32,-,-,1,Cirebon United,Right
+Home,Rizki M,Save,1362,3,54,3,58,1,Cirebon United,Right
+Home,Roni S,Yellow Card,1363,7,31,7,34,1,Cirebon United,Right
+Home,Rizki M,Pass,1364,3,52,40,86,1,Cirebon United,Right
+Home,Andri V,Pass Fail,1365,32,88,43,87,1,Cirebon United,Right
+Home,Fikri N,Pass Fail,1366,38,16,62,17,1,Cirebon United,Right
+Home,Deni Nurul,Intercept,1367,36,37,31,30,1,Cirebon United,Right
+Home,Deni Nurul,Pass,1368,37,39,27,27,1,Cirebon United,Right
+Home,Deni Nurul,Tackle Fail,1369,32,33,35,38,1,Cirebon United,Right
+Home,Agil,Pass Fail,1370,33,33,79,26,1,Cirebon United,Right
+Home,Fikri N,Intercept,1371,73,20,70,24,1,Cirebon United,Right
+Home,Fikri N,Pass,1372,70,25,93,64,1,Cirebon United,Right
+Home,Bebeto,Shots On,1373,91,65,100,55,1,Cirebon United,Right
+Home,Deni Nurul,Intercept,1374,68,53,68,46,1,Cirebon United,Right
+Home,Deni Nurul,Pass,1375,65,49,74,32,1,Cirebon United,Right
+Home,Fikri N,Pass Fail,1376,70,34,77,38,1,Cirebon United,Right
+Home,Roni S,Tackle,1377,74,51,70,59,1,Cirebon United,Right
+Home,Roni S,Pass,1378,72,65,61,53,1,Cirebon United,Right
+Home,Andri V,Pass,1379,57,66,62,55,1,Cirebon United,Right
+Home,Andri V,Tackle Fail,1380,61,62,62,54,1,Cirebon United,Right
+Home,Deni Nurul,Tackle,1381,43,56,35,65,1,Cirebon United,Right
+Home,Deni Nurul,Pass Fail,1382,50,57,78,50,1,Cirebon United,Right
+Home,Ali M,Tackle Fail,1383,19,50,17,55,1,Cirebon United,Right
+Home,Noval Fajar ,Tackle Fail,1384,67,37,71,40,1,Cirebon United,Right
+Home,Antonius,Intercept,1385,38,24,46,16,1,Cirebon United,Right
+Home,Antonius,Pass,1386,42,17,82,26,1,Cirebon United,Right
+Home,Hafidz,Pass,1387,94,27,94,62,1,Cirebon United,Right
+Home,Fikri N,Goal,1388,91,68,97,59,1,Cirebon United,Right
+Home,Fikri N,Shots On,1389,93,64,96,57,1,Cirebon United,Right
+Home,Hafidz,Assist,1390,97,32,96,51,1,Cirebon United,Right
+Home,Agil,Pass,1391,18,36,29,69,1,Cirebon United,Right
+Home,Andri V,Pass Fail,1392,38,78,76,53,1,Cirebon United,Right
+Home,Deni Nurul,Pass,1393,68,66,77,90,1,Cirebon United,Right
+Home,Agil,Pass,1394,18,38,17,55,1,Cirebon United,Right
+Home,Ali M,Pass,1395,17,63,26,83,1,Cirebon United,Right
+Home,Andri V,Pass,1396,30,80,18,62,1,Cirebon United,Right
+Home,Agil,Pass Fail,1397,18,62,21,53,1,Cirebon United,Right
+Home,Rizki M,Intercept,1398,7,38,12,32,1,Cirebon United,Right
+Home,Rizki M,Pass Fail,1399,14,38,43,52,1,Cirebon United,Right
+Home,Roni S,Intercept,1400,37,33,38,23,1,Cirebon United,Right
+Home,Roni S,Pass,1401,34,25,19,27,1,Cirebon United,Right
+Home,Ali M,Pass,1402,17,24,12,44,1,Cirebon United,Right
+Home,Agil,Pass,1403,13,54,17,78,1,Cirebon United,Right
+Home,Agil,Pass,1404,28,85,36,64,1,Cirebon United,Right
+Home,Roni S,Pass Fail,1405,32,59,25,73,1,Cirebon United,Right
+Home,Antonius,Pass Fail,1406,23,36,39,57,1,Cirebon United,Right
+Home,Rizki M,Tackle Fail,1407,23,39,27,48,1,Cirebon United,Right
+Home,Rizki M,Save,1408,3,42,4,48,1,Cirebon United,Right
+Home,Roni S,Shots On,1409,71,52,88,44,1,Cirebon United,Right
+Home,Agil,Shots On,1410,90,60,96,50,1,Cirebon United,Right
+Home,HALF TIME,HALF TIME,1411,49,47,51,51,0,Cirebon United,
+Home,HALF TIME,HALF TIME,1412,52,48,49,49,0,Cirebon United,
+Home,Hafidz,Pass,1413,51,49,56,48,2,Cirebon United,Left
+Home,Roni S,Pass,1414,59,48,54,47,2,Cirebon United,Left
+Home,Hafidz,Pass,1415,52,46,61,49,2,Cirebon United,Left
+Home,Deni Nurul,Pass Fail,1416,65,47,22,38,2,Cirebon United,Left
+Home,Andri V,Pass,1417,17,3,30,10,2,Cirebon United,Left
+Home,Deni Nurul,Pass,1418,33,14,25,7,2,Cirebon United,Left
+Home,Antonius,Pass Fail,1419,77,67,72,94,2,Cirebon United,Left
+Home,Auzie,Intercept,1420,71,48,69,54,2,Cirebon United,Left
+Home,Auzie,Pass,1421,69,52,66,72,2,Cirebon United,Left
+Home,Fikri N,Pass,1422,68,70,14,66,2,Cirebon United,Left
+Home,Hafidz,Goal,1423,9,62,2,46,2,Cirebon United,Left
+Home,Hafidz,Shots On,1424,8,58,1,48,2,Cirebon United,Left
+Home,Fikri N,Assist,1425,65,76,15,70,2,Cirebon United,Left
+Home,Auzie,Tackle,1426,23,28,24,32,2,Cirebon United,Left
+Home,Auzie,Pass,1427,25,37,37,44,2,Cirebon United,Left
+Home,Roni S,Pass,1428,44,37,27,42,2,Cirebon United,Left
+Home,Fikri N,Pass,1429,44,33,26,15,2,Cirebon United,Left
+Home,Fikri N,Corner,1430,2,3,3,36,2,Cirebon United,Left
+Home,Ali M,Pass,1431,70,23,91,44,2,Cirebon United,Left
+Home,Rizki M,Pass,1432,94,55,58,32,2,Cirebon United,Left
+Home,Fikri N,Pass,1433,68,81,44,56,2,Cirebon United,Left
+Home,Auzie,Pass,1434,43,45,29,74,2,Cirebon United,Left
+Home,Fikri N,Pass Fail,1435,32,79,28,63,2,Cirebon United,Left
+Home,Hafidz,Pass Fail,1436,12,70,12,44,2,Cirebon United,Left
+Home,Fikri N,Pass Fail,1437,2,91,6,50,2,Cirebon United,Left
+Home,Fikri N,Pass,1438,2,91,4,50,2,Cirebon United,Left
+Home,Roni S,Pass,1439,17,65,17,44,2,Cirebon United,Left
+Home,Deni Nurul,Pass,1440,19,42,25,32,2,Cirebon United,Left
+Home,Deni Nurul,Tackle Fail,1441,33,29,30,34,2,Cirebon United,Left
+Home,Agil,Pass,1442,41,15,13,36,2,Cirebon United,Left
+Home,Andri V,Pass,1443,15,37,7,56,2,Cirebon United,Left
+Home,Hafidz,Shots Off,1444,7,62,0,60,2,Cirebon United,Left
+Home,Rizki M,Pass,1445,96,47,69,29,2,Cirebon United,Left
+Home,Ali M,Pass,1446,78,27,77,59,2,Cirebon United,Left
+Home,Agil,Pass,1447,80,76,90,61,2,Cirebon United,Left
+Home,Rizki M,Pass Fail,1448,93,49,62,37,2,Cirebon United,Left
+Home,Rizki M,Pass,1449,93,51,93,43,2,Cirebon United,Left
+Home,Agil,Pass,1450,94,39,59,15,2,Cirebon United,Left
+Home,Bebeto,Pass,1451,53,15,57,25,2,Cirebon United,Left
+Home,Bebeto,Offside,1452,24,29,18,22,2,Cirebon United,Left
+Home,Agil,Pass Fail,1453,82,71,80,81,2,Cirebon United,Left
+Home,Agil,Intercept Fail,1454,78,61,80,71,2,Cirebon United,Left
+Home,Rizki M,Save,1455,97,57,97,64,2,Cirebon United,Left
+Home,Dzikri Akbar,Pass,1456,41,8,47,24,2,Cirebon United,Left
+Home,Dzikri Akbar,Pass Fail,1457,2,14,11,33,2,Cirebon United,Left
+Home,Andri V,Pass Fail,1458,39,4,18,27,2,Cirebon United,Left
+Home,Roni S,Tackle Fail,1459,34,35,31,41,2,Cirebon United,Left
+Home,Auzie,Pass,1460,39,37,30,47,2,Cirebon United,Left
+Home,Fikri N,Pass,1461,37,56,29,56,2,Cirebon United,Left
+Home,Fikri N,Intercept,1462,40,60,34,59,2,Cirebon United,Left
+Home,Deni Nurul,Intercept,1463,43,41,39,43,2,Cirebon United,Left
+Home,Deni Nurul,Pass Fail,1464,42,41,37,48,2,Cirebon United,Left
+Home,Fikri N,Pass Fail,1465,32,61,22,46,2,Cirebon United,Left
+Home,Deni Nurul,Pass Fail,1466,41,52,20,44,2,Cirebon United,Left
+Home,Andri V,Tackle,1467,63,25,66,32,2,Cirebon United,Left
+Home,Andri V,Pass,1468,62,29,57,37,2,Cirebon United,Left
+Home,Deni Nurul,Tackle Fail,1469,59,32,57,42,2,Cirebon United,Left
+Home,Auzie,Intercept Fail,1470,45,20,38,15,2,Cirebon United,Left
+Home,Auzie,Pass,1471,33,21,32,37,2,Cirebon United,Left
+Home,Fikri N,Pass Fail,1472,33,70,24,59,2,Cirebon United,Left
+Home,Fikri N,Tackle Fail,1473,30,50,29,57,2,Cirebon United,Left
+Home,Auzie,Tackle,1474,32,40,36,47,2,Cirebon United,Left
+Home,Auzie,Pass,1475,29,42,37,43,2,Cirebon United,Left
+Home,Deni Nurul,Pass,1476,39,46,32,63,2,Cirebon United,Left
+Home,Deni Nurul,Pass,1477,36,57,41,45,2,Cirebon United,Left
+Home,Roni S,Pass,1478,36,59,39,47,2,Cirebon United,Left
+Home,Deni Nurul,Pass,1479,43,41,28,44,2,Cirebon United,Left
+Home,Auzie,Pass Fail,1480,33,53,20,39,2,Cirebon United,Left
+Home,Auzie,Tackle Fail,1481,28,47,26,41,2,Cirebon United,Left
+Home,Roni S,Intercept,1482,32,61,29,67,2,Cirebon United,Left
+Home,Roni S,Pass,1483,20,67,27,55,2,Cirebon United,Left
+Home,Hafidz,Pass Fail,1484,30,59,20,28,2,Cirebon United,Left
+Home,Hafidz,Shots Off,1485,24,31,0,38,2,Cirebon United,Left
+Home,Antonius,Intercept,1486,74,77,77,71,2,Cirebon United,Left
+Home,Antonius,Pass,1487,67,75,68,56,2,Cirebon United,Left
+Home,Antonius,Tackle,1488,83,76,74,75,2,Cirebon United,Left
+Home,Antonius,Pass,1489,81,72,54,78,2,Cirebon United,Left
+Home,Deni Nurul,Tackle,1490,74,58,71,65,2,Cirebon United,Left
+Home,Deni Nurul,Pass,1491,80,65,58,68,2,Cirebon United,Left
+Home,Ali M,Pass,1492,88,30,77,10,2,Cirebon United,Left
+Home,Andri V,Pass,1493,71,7,82,23,2,Cirebon United,Left
+Home,Roni S,Pass Fail,1494,81,32,60,35,2,Cirebon United,Left
+Home,Rofi,Tackle Fail,1495,85,80,73,80,2,Cirebon United,Left
+Home,Auzie,Tackle Fail,1496,77,62,72,67,2,Cirebon United,Left
+Home,Roni S,Tackle Fail,1497,68,59,62,61,2,Cirebon United,Left
+Home,Rizki M,Save,1498,98,46,-,-,2,Cirebon United,Left
+Home,Dzikri Akbar,Tackle Fail,1499,35,22,30,19,2,Cirebon United,Left
+Home,Andri V,Intercept,1500,74,23,68,17,2,Cirebon United,Left
+Home,Andri V,Pass Fail,1501,67,21,54,17,2,Cirebon United,Left
+Home,Agil,Pass Fail,1502,75,70,27,61,2,Cirebon United,Left
+Home,Auzie,Tackle Fail,1503,60,56,54,48,2,Cirebon United,Left
+Home,Deni Nurul,Intercept,1504,62,53,60,59,2,Cirebon United,Left
+Home,Deni Nurul,Pass,1505,62,53,33,72,2,Cirebon United,Left
+Home,Rizki M,Pass,1506,90,34,31,22,2,Cirebon United,Left
+Home,Dzikri Akbar,Pass,1507,18,27,12,56,2,Cirebon United,Left
+Home,Fikri N,Pass,1508,3,92,6,48,2,Cirebon United,Left
+Home,Fikri N,Corner,1509,2,92,6,48,2,Cirebon United,Left
+Home,Andri V,Shots Off,1510,11,39,0,37,2,Cirebon United,Left
+Home,Dzikri Akbar,Tackle,1511,26,11,24,14,2,Cirebon United,Left
+Home,Dzikri Akbar,Pass,1512,22,18,22,33,2,Cirebon United,Left
+Home,Auzie,Pass,1513,24,29,13,29,2,Cirebon United,Left
+Home,Hafidz,Pass,1514,10,28,11,38,2,Cirebon United,Left
+Home,Auzie,Shots Off,1515,13,34,1,41,2,Cirebon United,Left
+Home,Agil,Intercept,1516,86,29,82,26,2,Cirebon United,Left
+Home,Yan Alfian,Tackle Fail,1517,40,23,35,21,2,Cirebon United,Left
+Home,Rizki M,Pass,1518,97,48,95,38,2,Cirebon United,Left
+Home,Agil,Pass,1519,93,27,74,7,2,Cirebon United,Left
+Home,Andri V,Pass Fail,1520,85,8,31,2,2,Cirebon United,Left
+Home,Andri V,Pass,1521,43,3,37,20,2,Cirebon United,Left
+Home,Hafidz,Pass,1522,35,16,39,36,2,Cirebon United,Left
+Home,Roni S,Pass Fail,1523,43,25,29,28,2,Cirebon United,Left
+Home,Ali M,Tackle Fail,1524,62,29,55,26,2,Cirebon United,Left
+Home,Rizki M,Pass,1525,86,42,41,40,2,Cirebon United,Left
+Home,Yan Alfian,Pass,1526,45,47,35,45,2,Cirebon United,Left
+Home,Hafidz,Pass,1527,35,43,26,44,2,Cirebon United,Left
+Home,Rofi,Pass,1528,79,63,57,34,2,Cirebon United,Left
+Home,Yan Alfian,Tackle,1529,63,29,60,20,2,Cirebon United,Left
+Home,Yan Alfian,Pass,1530,61,36,38,6,2,Cirebon United,Left
+Home,Roni S,Pass Fail,1531,46,47,28,46,2,Cirebon United,Left
+Home,Rofi,Pass Fail,1532,36,93,29,74,2,Cirebon United,Left
+Home,Hafidz,Tackle,1533,18,74,12,71,2,Cirebon United,Left
+Home,Hafidz,Pass,1534,6,64,10,44,2,Cirebon United,Left
+Home,Dzikri Akbar,Pass Fail,1535,23,20,26,39,2,Cirebon United,Left
+Home,Auzie,Pass,1536,30,41,20,60,2,Cirebon United,Left
+Home,Roni S,Pass,1537,22,79,39,59,2,Cirebon United,Left
+Home,Auzie,Pass Fail,1538,36,61,20,79,2,Cirebon United,Left
+Home,Rofi,Tackle Fail,1539,70,67,65,71,2,Cirebon United,Left
+Home,Andri V,Intercept,1540,79,13,73,20,2,Cirebon United,Left
+Home,Andri V,Pass,1541,78,24,65,26,2,Cirebon United,Left
+Home,Hafidz,Pass,1542,32,31,39,12,2,Cirebon United,Left
+Home,Andri V,Pass Fail,1543,61,14,25,25,2,Cirebon United,Left
+Home,Rofi,Tackle,1544,82,81,75,83,2,Cirebon United,Left
+Home,Rofi,Pass,1545,80,84,57,86,2,Cirebon United,Left
+Home,Jumagar,Pass,1546,61,79,32,73,2,Cirebon United,Left
+Home,Jumagar,Pass,1547,26,81,21,70,2,Cirebon United,Left
+Home,Hafidz,Pass,1548,21,63,24,74,2,Cirebon United,Left
+Home,Agil,Shots On,1549,22,73,3,55,2,Cirebon United,Left
+Home,Jumagar,Tackle Fail,1550,28,82,21,88,2,Cirebon United,Left
+Home,Agil,Pass,1551,81,68,78,38,2,Cirebon United,Left
+Home,Ali M,Pass,1552,78,26,93,49,2,Cirebon United,Left
+Home,Rizki M,Pass,1553,94,57,68,66,2,Cirebon United,Left
+Home,Auzie,Pass,1554,63,66,67,51,2,Cirebon United,Left
+Home,Jumagar,Pass Fail,1555,66,60,54,54,2,Cirebon United,Left
+Home,Rofi,Intercept,1556,73,81,64,80,2,Cirebon United,Left
+Home,Rofi,Pass,1557,66,80,40,80,2,Cirebon United,Left
+Home,Yan Alfian,Pass,1558,65,57,54,49,2,Cirebon United,Left
+Home,Jumagar,Pass,1559,44,82,18,22,2,Cirebon United,Left
+Home,Yan Alfian,Pass Fail,1560,61,63,53,52,2,Cirebon United,Left
+Home,Dzikri Akbar,Pass,1561,12,18,19,27,2,Cirebon United,Left
+Home,Karno,Pass,1562,25,31,11,25,2,Cirebon United,Left
+Home,Dzikri Akbar,Pass,1563,11,27,7,52,2,Cirebon United,Left
+Home,Dzikri Akbar,Assist,1564,10,27,7,52,2,Cirebon United,Left
+Home,Hafidz,Shots On,1565,7,56,2,53,2,Cirebon United,Left
+Home,Hafidz,Goal,1566,7,57,3,49,2,Cirebon United,Left
+Home,Dzikri Akbar,Pass,1567,34,13,63,20,2,Cirebon United,Left
+Home,Karno,Pass,1568,59,17,75,25,2,Cirebon United,Left
+Home,Rizki M,Pass,1569,89,38,57,9,2,Cirebon United,Left
+Home,Rizki M,Pass,1570,89,41,65,38,2,Cirebon United,Left
+Home,Rofi,Intercept,1571,78,46,73,42,2,Cirebon United,Left
+Home,Rofi,Pass,1572,72,44,86,59,2,Cirebon United,Left
+Home,Rofi,Pass,1573,89,63,78,84,2,Cirebon United,Left
+Home,Jumagar,Pass,1574,76,84,75,65,2,Cirebon United,Left
+Home,Andri V,Pass,1575,76,62,58,68,2,Cirebon United,Left
+Home,Yan Alfian,Tackle,1576,69,62,62,66,2,Cirebon United,Left
+Home,Jumagar,Tackle,1577,69,71,62,70,2,Cirebon United,Left
+Home,Auzie,Pass Fail,1578,62,73,29,67,2,Cirebon United,Left
+Home,Hafidz,Offside,1579,28,71,19,62,2,Cirebon United,Left
+Home,Ali M,Intercept,1580,82,38,79,46,2,Cirebon United,Left
+Home,Ali M,Pass,1581,84,50,75,64,2,Cirebon United,Left
+Home,Agil,Pass,1582,77,60,80,32,2,Cirebon United,Left
+Home,Auzie,Corner,1583,3,2,12,10,2,Cirebon United,Left
+Home,Auzie,Pass,1584,2,2,13,10,2,Cirebon United,Left
+Home,Andri V,Shots Off,1585,6,57,1,50,2,Cirebon United,Left
